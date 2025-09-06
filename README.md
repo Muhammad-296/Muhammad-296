@@ -29,22 +29,7 @@ Electronics & Communication Engineering Student in Egypt
 ## 🔧 Tech Stack  
 
 <p align="center">
-
-  ☁️ <b>Cloud:</b>  
-  <img src="https://skillicons.dev/icons?i=aws,azure" height="40"/>&nbsp;&nbsp;
-
-  ⚙️ <b>IaC & Automation:</b>  
-  <img src="https://skillicons.dev/icons?i=terraform,ansible" height="40"/>&nbsp;&nbsp;
-
-  🚀 <b>CI/CD:</b>  
-  <img src="https://skillicons.dev/icons?i=githubactions,jenkins" height="40"/>&nbsp;&nbsp;
-
-  📦 <b>Containers:</b>  
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" height="40"/>&nbsp;&nbsp;
-
-  💻 <b>OS & Programming:</b>  
-  <img src="https://skillicons.dev/icons?i=linux,git,bash,python" height="40"/>
-
+  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,ansible,githubactions,jenkins,docker,kubernetes,helm,linux,git,bash,python" height="40"/>
 </p>
 
 
