@@ -81,14 +81,6 @@ Focused on <b>Automation, CI/CD, Cloud-Native Development, and Observability</b>
 
 ---
 
-## 📖 DevOps Quotes  
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=devops" alt="Random DevOps Quote"/>
-</p>
-
----
-
 ## 🌐 Connect with Me  
 
 <p align="center">
