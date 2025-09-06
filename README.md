@@ -1,26 +1,15 @@
-<!-- Profile Header with Photo -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/174514915?v=4" width="180" height="180" style="border-radius:50%" alt="Muhammad Ahmed"/>
-</p>
-
+<!-- Profile Header -->
 <h2 align="center">👋 Hi, I'm Muhammad</h2>
 <h3 align="center">Electronics & DevOps Enthusiast</h3>
 
 <p align="center">
 🚀 Aspiring DevOps Engineer | 🎓 Electronics & Communication Engineering Student (Egypt)<br>
-Focused on <b>Automation, CI/CD, Cloud-Native Development, and Observability</b>
-</p>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Muhammad-296&label=Profile+Views&color=0e75b6&style=flat" alt="profile views"/>
+Focused on <b>Automation, CI/CD, Cloud-Native Development, and Observability</b><br>
+<i>Bridging electronics with DevOps to build scalable, automated systems</i>
 </p>
 
 <p align="center">
-  <a href="mailto:muhammad.al.ajami.se@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Email"/></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/muhammad-abdulhamid/"><img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/></a>
-  &nbsp;
-  <a href="https://github.com/Muhammad-296"><img src="https://img.icons8.com/material-outlined/48/github.png" width="40" alt="GitHub"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-296&label=Profile+Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
@@ -34,12 +23,11 @@ Focused on <b>Automation, CI/CD, Cloud-Native Development, and Observability</b>
 
 ---
 
-## 👨‍💻 About Me  
-
+## 👨‍💻 About Me
 - 🎓 Electronics & Communication Engineering student (Egypt)  
 - ☁️ Learning **AWS, Azure, IaC, and CI/CD**  
 - 🛠️ Focused on **automation, scalability, and observability**  
-- 📌 Building a solid **DevOps foundation**  
+- 📌 Building a solid **DevOps foundation**
 
 <p align="center">
   <img src="https://img.shields.io/badge/DevOps-Engineer%20in%20Progress-blue?style=flat&logo=devops"/>
@@ -49,7 +37,14 @@ Focused on <b>Automation, CI/CD, Cloud-Native Development, and Observability</b>
 
 ---
 
-## 🔧 Tech Stack  
+## 🔧 Tech Stack
+<p align="center">
+  <b>Cloud & IaC:</b> AWS, Azure, Terraform <br>
+  <b>CI/CD & Automation:</b> GitHub Actions, Jenkins <br>
+  <b>Containers & Orchestration:</b> Docker, Kubernetes, Nginx <br>
+  <b>Databases & Tools:</b> MySQL, Postman <br>
+  <b>Programming & OS:</b> Python, Bash, Linux
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,terraform,githubactions,jenkins,docker,kubernetes,nginx,mysql,postman,linux,vscode,git,bash,python" height="45"/>
@@ -57,24 +52,27 @@ Focused on <b>Automation, CI/CD, Cloud-Native Development, and Observability</b>
 
 ---
 
-## 📚 2025 Learning Roadmap  
-
-- ✅ **Q1:** Build scalable CI/CD pipelines  
-- ⏳ **Q2:** Master Kubernetes workloads & Helm charts  
-- 🔜 **Q3:** Improve observability (Prometheus, Grafana, OpenTelemetry)  
-- 🔜 **Q4:** Automate infrastructure with **IaC + GitOps**  
+## 📚 2025 Learning Roadmap
+- ✅ **Q1:** Built scalable CI/CD pipelines  
+- ⏳ **Q2:** Learning Kubernetes workloads & Helm charts  
+- 🔜 **Q3:** Exploring observability (Prometheus, Grafana, OpenTelemetry)  
+- 🔜 **Q4:** Expanding automation with **IaC + GitOps**
 
 ---
 
-## 🚀 Featured Projects  
-
+## 🚀 Featured Projects
 <p align="center">
   <a href="https://github.com/Muhammad-296/Flight-Reservation-App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-296&repo=Flight-Reservation-App&theme=tokyonight&hide_border=true&v=2" />
   </a>
 </p>
 
-### 🔮 Upcoming Projects  
+📌 **Flight Reservation App**  
+A Tkinter-based desktop application for booking, editing, and managing flight reservations with a database backend.  
+
+---
+
+### 🔮 Upcoming Projects
 <p align="center">
   <img src="https://img.shields.io/badge/📦-CI%2FCD%20Pipeline%20Demo-informational?style=for-the-badge&logo=githubactions"/>
   <img src="https://img.shields.io/badge/☸️-Kubernetes%20Monitoring%20Lab-success?style=for-the-badge&logo=kubernetes"/>
@@ -83,16 +81,26 @@ Focused on <b>Automation, CI/CD, Cloud-Native Development, and Observability</b>
 
 ---
 
-## 📊 GitHub Stats  
-
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-296&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Muhammad-296&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## 🐍 Contribution Graph  
+## 🌐 Connect with Me
+<p align="center">
+  <a href="mailto:muhammad.al.ajami.se@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Email"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/muhammad-abdulhamid/"><img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="https://github.com/Muhammad-296"><img src="https://img.icons8.com/material-outlined/48/github.png" width="40" alt="GitHub"/></a>
+</p>
 
+---
+
+## 🐍 Contribution Graph
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
