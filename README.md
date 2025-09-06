@@ -8,6 +8,7 @@ Focused on <b>Automation, CI/CD, Cloud-Native Development, and Observability</b>
 <i>Bridging electronics with DevOps to build scalable, automated systems</i>
 </p>
 
+<!-- Social Links -->
 <p align="center">
   <a href="mailto:muhammad.al.ajami.se@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Email"/></a>
   &nbsp;
@@ -16,22 +17,15 @@ Focused on <b>Automation, CI/CD, Cloud-Native Development, and Observability</b>
   <a href="https://github.com/Muhammad-296"><img src="https://img.icons8.com/material-outlined/48/github.png" width="40" alt="GitHub"/></a>
 </p>
 
+<!-- Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muhammad-296&label=Profile+Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://img.shields.io/badge/DevOps-Engineer%20in%20Progress-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linux-Enthusiast-yellow?style=for-the-badge&logo=linux"/>
 </p>
 
----
-
-## 👨‍💻 About Me
-- 🎓 Electronics & Communication Engineering student (Egypt)  
-- ☁️ Learning **AWS, Azure, IaC, and CI/CD**  
-- 🛠️ Focused on **automation, scalability, and observability**  
-- 📌 Building a solid **DevOps foundation**
-
 <p align="center">
-  <img src="https://img.shields.io/badge/DevOps-Engineer%20in%20Progress-blue?style=flat&logo=devops"/>
-  <img src="https://img.shields.io/badge/Cloud-AWS%20|%20Azure-orange?style=flat&logo=cloud"/>
-  <img src="https://img.shields.io/badge/Linux-Enthusiast-gray?style=flat&logo=linux"/>
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-296&label=Profile+Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
@@ -60,15 +54,6 @@ Focused on <b>Automation, CI/CD, Cloud-Native Development, and Observability</b>
 
 ---
 
-### 🔮 Upcoming Projects
-<p align="center">
-  <img src="https://img.shields.io/badge/📦-CI%2FCD%20Pipeline%20Demo-informational?style=for-the-badge&logo=githubactions"/>
-  <img src="https://img.shields.io/badge/☸️-Kubernetes%20Monitoring%20Lab-success?style=for-the-badge&logo=kubernetes"/>
-  <img src="https://img.shields.io/badge/📊-Observability%20with%20Grafana%20%26%20Prometheus-critical?style=for-the-badge&logo=grafana"/>
-</p>
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-296&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
@@ -80,12 +65,4 @@ Focused on <b>Automation, CI/CD, Cloud-Native Development, and Observability</b>
 ## 🐍 Contribution Graph
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/Muhammad-296?tab=repositories">
-    <img src="https://img.shields.io/badge/⭐-Star%20my%20repos-yellow?style=for-the-badge" />
-  </a>
 </p>
