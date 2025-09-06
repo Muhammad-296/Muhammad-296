@@ -3,8 +3,8 @@
 <h3 align="center">Electronics & DevOps Enthusiast</h3>
 
 <p align="center">
-Aspiring DevOps engineer | Electronics & Communication Engineering student in Egypt<br>
-Focused on automation, CI/CD, and cloud-native development
+Aspiring DevOps Engineer | Electronics & Communication Engineering Student in Egypt<br>
+Focused on Automation, CI/CD, and Cloud-Native Development
 </p>
 
 ---
@@ -26,24 +26,11 @@ Focused on automation, CI/CD, and cloud-native development
 
 ---
 
-## 🚀 Featured Projects
-
-- **CI/CD with GitHub Actions** — build, test, and Dockerize a sample app  
-  👉 [View Repo](https://github.com/Muhammad-296/<repo>)
-
-- **Terraform AWS Lab** — provision EC2, S3, IAM using Infrastructure as Code  
-  👉 [View Repo](https://github.com/Muhammad-296/<repo>)
-
-- **Ansible Monitoring Setup** — automate Prometheus + Grafana installation  
-  👉 [View Repo](https://github.com/Muhammad-296/<repo>)
-
----
-
 ## 📚 Learning Goals (2025)
 
-- Production-grade CI/CD pipelines  
-- Kubernetes deployment practices  
-- Observability with Prometheus + Grafana  
+- Build production-grade CI/CD pipelines  
+- Master Kubernetes deployment practices  
+- Improve observability with Prometheus + Grafana  
 
 ---
 
