@@ -1,27 +1,21 @@
 ## Hi there 👋
 
-# Muhammad | Electronics & DevOps Enthusiast  
+# Muhammad | Electronics & DevOps Enthusiast
 
-Aspiring **DevOps Engineer** | Electronics & Communication Engineering student (Egypt)  
-Focused on **Automation**, **CI/CD**, and **Cloud-Native Development**.  
-
----
-
-<p align="center">
-  <img src="https://github.com/Muhammad-296/Muhammad-296/blob/main/assets/banner.png" alt="Profile Banner" width="100%">
-</p>
+Aspiring DevOps engineer. Electronics & Communication Engineering student in Egypt.  
+Focused on automation, CI/CD, and cloud-native development.
 
 ---
 
 ## 🔧 Tech Stack
 | Area         | Tools |
 |--------------|-------|
-| ☁️ Cloud        | AWS, Azure |
-| 🏗️ IaC          | Terraform, CloudFormation |
-| ⚙️ Config Mgmt  | Ansible |
-| 🚦 CI/CD        | GitHub Actions, Jenkins |
-| 📦 Containers   | Docker, Kubernetes (minikube) |
-| 💻 Scripting    | Bash, Python, YAML |
+| Cloud        | AWS, Azure |
+| IaC          | Terraform, CloudFormation |
+| Config Mgmt  | Ansible |
+| CI/CD        | GitHub Actions, Jenkins |
+| Containers   | Docker, Kubernetes (minikube) |
+| Scripting    | Bash, Python, YAML |
 
 ---
 
@@ -38,38 +32,20 @@ Focused on **Automation**, **CI/CD**, and **Cloud-Native Development**.
 ---
 
 ## 📚 Learning Goals (2025)
-- ✅ Production-grade CI/CD pipelines  
-- ✅ Kubernetes deployment practices  
-- ✅ Observability with Prometheus + Grafana  
+- Production-grade CI/CD pipelines  
+- Kubernetes deployment practices  
+- Observability with Prometheus + Grafana  
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-296&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-296&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-296&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 📫 Connect with Me  
-
-<p align="center">
-  <a href="https://linkedin.com/in/<your-link>" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:<you@example.com>" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Muhammad-296" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+## 📫 Contact
+<a href="muhammad.al.ajami.se@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" alt="Email"/>
+</a>
+&nbsp;
+<a href="www.linkedin.com/in/muhammad-abdulhamid">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40" alt="LinkedIn"/>
+</a>
 
 ---
 
