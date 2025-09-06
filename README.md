@@ -11,6 +11,14 @@ Focused on <b>Automation, CI/CD, Cloud-Native Development, and Observability</b>
   <img src="https://komarev.com/ghpvc/?username=Muhammad-296&label=Profile+Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
+<p align="center">
+  <a href="mailto:muhammad.al.ajami.se@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Email"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/muhammad-abdulhamid/"><img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="https://github.com/Muhammad-296"><img src="https://img.icons8.com/material-outlined/48/github.png" width="40" alt="GitHub"/></a>
+</p>
+
 ---
 
 <!-- Typing Animation -->
@@ -75,18 +83,6 @@ Focused on <b>Automation, CI/CD, Cloud-Native Development, and Observability</b>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-296&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-</p>
-
----
-
-## 🌐 Connect with Me  
-
-<p align="center">
-  <a href="mailto:muhammad.al.ajami.se@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Email"/></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/muhammad-abdulhamid/"><img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/></a>
-  &nbsp;
-  <a href="https://github.com/Muhammad-296"><img src="https://img.icons8.com/material-outlined/48/github.png" width="40" alt="GitHub"/></a>
 </p>
 
 ---
