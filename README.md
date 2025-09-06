@@ -42,12 +42,6 @@ Focused on Automation, CI/CD, and Cloud-Native Development
   <a href="https://www.linkedin.com/in/muhammad-abdulhamid/"><img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/></a>
   &nbsp;
   <a href="https://github.com/Muhammad-296"><img src="https://img.icons8.com/material-outlined/48/github.png" width="40" alt="GitHub"/></a>
-  &nbsp;
-  <a href="https://twitter.com/<your-handle>"><img src="https://img.icons8.com/color/48/twitter--v1.png" width="40" alt="Twitter"/></a>
-  &nbsp;
-  <a href="https://medium.com/@<your-handle>"><img src="https://img.icons8.com/color/48/medium-logo.png" width="40" alt="Medium"/></a>
-  &nbsp;
-  <a href="https://stackoverflow.com/users/<your-id>"><img src="https://img.icons8.com/color/48/stackoverflow.png" width="40" alt="Stack Overflow"/></a>
 </p>
 
 ---
