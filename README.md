@@ -53,7 +53,7 @@ Focused on **Automation, CI/CD, and Cloud-Native Development**
 
 <p align="center">
   <a href="https://github.com/Muhammad-296/Flight-Reservation-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-296&repo=Flight-Reservation-App&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-296&repo=Flight-Reservation-App&theme=tokyonight&hide_border=true&v=2" />
   </a>
 </p>
 
@@ -66,8 +66,6 @@ Focused on **Automation, CI/CD, and Cloud-Native Development**
   <img src="https://img.shields.io/badge/Coming%20Soon-Project%202-gray?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Coming%20Soon-Project%203-gray?style=for-the-badge" />
 </p>
-
-
 
 ---
 
