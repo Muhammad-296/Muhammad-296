@@ -35,7 +35,7 @@ Focused on **Automation, CI/CD, and Cloud-Native Development**
 ## 🔧 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,githubactions,jenkins,docker,kubernetes,ansible,helm,prometheus,grafana,linux,git,bash,python" height="45"/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,githubactions,jenkins,docker,kubernetes,nginx,mysql,postman,vscode,linux,git,bash,python" height="45"/>
 </p>
 
 ---
