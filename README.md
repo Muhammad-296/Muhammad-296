@@ -4,7 +4,7 @@
 
 <p align="center">
 Aspiring DevOps engineer | Electronics & Communication Engineering Student in Egypt<br>
-Focused on **Automation, CI/CD, and Cloud-Native Development**
+Focused on <b>Automation, CI/CD, and Cloud-Native Development</b>
 </p>
 
 ---
@@ -69,10 +69,6 @@ Focused on **Automation, CI/CD, and Cloud-Native Development**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-296&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-296&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-296&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
