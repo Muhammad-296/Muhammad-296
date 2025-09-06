@@ -41,20 +41,6 @@ Focused on <b>Automation, CI/CD, Cloud-Native Development, and Observability</b>
 
 ---
 
-## 📌 Pinned Skills  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/⚙️-DevOps-blue?style=for-the-badge&logo=devops"/>
-  <img src="https://img.shields.io/badge/☁️-Cloud%20(AWS%20%7C%20Azure)-orange?style=for-the-badge&logo=cloud"/>
-  <img src="https://img.shields.io/badge/📦-Containers%20(Docker%20%7C%20Kubernetes)-green?style=for-the-badge&logo=docker"/>
-  <img src="https://img.shields.io/badge/🛠️-CI%2FCD%20(Jenkins%20%7C%20GitHub%20Actions)-purple?style=for-the-badge&logo=githubactions"/>
-  <img src="https://img.shields.io/badge/💻-Linux%20%7C%20Bash%20Scripting-gray?style=for-the-badge&logo=linux"/>
-  <img src="https://img.shields.io/badge/🔍-Monitoring%20(Prometheus%20%7C%20Grafana)-red?style=for-the-badge&logo=grafana"/>
-  <img src="https://img.shields.io/badge/📖-IaC%20%7C%20GitOps-yellow?style=for-the-badge&logo=terraform"/>
-</p>
-
----
-
 ## 📚 2025 Learning Roadmap  
 
 - ✅ **Q1:** Build scalable CI/CD pipelines  
