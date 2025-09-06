@@ -29,8 +29,9 @@ Electronics & Communication Engineering Student in Egypt
 ## 🔧 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,ansible,githubactions,jenkins,docker,kubernetes,helm,linux,git,bash,python" height="40"/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,ansible,githubactions,jenkins,docker,kubernetes,helm,linux,git,bash,python" height="45"/>
 </p>
+
 
 
 ---
