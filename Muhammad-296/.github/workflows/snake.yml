@@ -2,11 +2,11 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # Runs every 12 hours
-  workflow_dispatch:          # Allows manual run
+    - cron: "0 */12 * * *"   # every 12 hours
+  workflow_dispatch:          # allow manual trigger
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: Platane/snk/svg-only@v3
@@ -21,4 +21,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
