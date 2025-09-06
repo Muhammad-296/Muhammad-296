@@ -9,16 +9,15 @@ Focused on <b>Automation, CI/CD, Cloud-Native Development, and Observability</b>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muhammad-296&label=Profile+Views&color=0e75b6&style=flat" alt="profile views"/>
+  <a href="mailto:muhammad.al.ajami.se@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Email"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/muhammad-abdulhamid/"><img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="https://github.com/Muhammad-296"><img src="https://img.icons8.com/material-outlined/48/github.png" width="40" alt="GitHub"/></a>
 </p>
 
----
-
-<!-- Typing Animation -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0CF7D0&center=true&vCenter=true&width=550&lines=Automation+•+CI%2FCD+•+Cloud;Always+Learning+•+Always+Building;Electronics+%2B+DevOps+Mindset" alt="Typing SVG"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-296&label=Profile+Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
@@ -67,9 +66,6 @@ Focused on <b>Automation, CI/CD, Cloud-Native Development, and Observability</b>
   </a>
 </p>
 
-📌 **Flight Reservation App**  
-A Tkinter-based desktop application for booking, editing, and managing flight reservations with a database backend.  
-
 ---
 
 ### 🔮 Upcoming Projects
@@ -85,17 +81,6 @@ A Tkinter-based desktop application for booking, editing, and managing flight re
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-296&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Muhammad-296&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
-## 🌐 Connect with Me
-<p align="center">
-  <a href="mailto:muhammad.al.ajami.se@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Email"/></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/muhammad-abdulhamid/"><img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/></a>
-  &nbsp;
-  <a href="https://github.com/Muhammad-296"><img src="https://img.icons8.com/material-outlined/48/github.png" width="40" alt="GitHub"/></a>
 </p>
 
 ---
