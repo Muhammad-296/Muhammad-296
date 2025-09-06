@@ -1,10 +1,10 @@
 <!-- Profile Header -->
-<h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Muhammad</h2>
-<h3 align="center">Electronics & DevOps Enthusiast</h3>
+<h2 align="center">👋 Hi, I'm Muhammad</h2>
+<h3 align="center">Electronics Engineer | Aspiring DevOps Engineer</h3>
 
 <p align="center">
-Aspiring DevOps Engineer | Electronics & Communication Engineering Student in Egypt<br>
-Focused on Automation, CI/CD, and Cloud-Native Development
+Focused on Automation, CI/CD, and Cloud-Native Development<br>
+Electronics & Communication Engineering Student in Egypt
 </p>
 
 ---
@@ -12,7 +12,7 @@ Focused on Automation, CI/CD, and Cloud-Native Development
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0CF7D0&center=true&vCenter=true&width=500&lines=DevOps+Engineer+in+Progress;Automation+%7C+CI%2FCD+%7C+Cloud;Always+Learning+Always+Building" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0CF7D0&center=true&vCenter=true&width=500&lines=DevOps+Engineer+in+Progress;Automation+•+CI%2FCD+•+Cloud;Always+Learning+•+Always+Building" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -21,16 +21,16 @@ Focused on Automation, CI/CD, and Cloud-Native Development
 ## 🔧 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,ansible,githubactions,jenkins,docker,kubernetes,bash,python" alt="skills logos"/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,ansible,githubactions,jenkins,docker,kubernetes,helm,linux,git,bash,python" alt="skills logos"/>
 </p>
 
 ---
 
 ## 📚 Learning Goals (2025)
 
-- Build production-grade CI/CD pipelines  
-- Master Kubernetes deployment practices  
-- Improve observability with Prometheus + Grafana  
+- Build scalable, production-grade CI/CD pipelines  
+- Master Kubernetes workloads & Helm charts  
+- Improve observability with Prometheus, Grafana, and OpenTelemetry  
 
 ---
 
@@ -57,6 +57,10 @@ Focused on Automation, CI/CD, and Cloud-Native Development
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-296&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-296&theme=tokyo-night" alt="Activity Graph"/>
+</p>
+
 ---
 
 ## 🏆 GitHub Achievements  
@@ -67,4 +71,6 @@ Focused on Automation, CI/CD, and Cloud-Native Development
 
 ---
 
-> “In DevOps, the best practice is the one you can automate.”
+> “In DevOps, the best practice is the one you can automate.”  
+> “The goal of CI/CD is not speed, but confidence.”  
+> “Cloud is about scalability, automation, and resilience.”
