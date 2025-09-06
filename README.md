@@ -40,14 +40,6 @@ Focused on **Automation, CI/CD, and Cloud-Native Development**
 
 ---
 
-## 🚀 Featured Projects  
-
-- **CI/CD Pipeline Demo** → Automated build & deploy with GitHub Actions + Docker + Kubernetes  
-- **Terraform AWS Infrastructure** → Provisioning scalable cloud infra using Terraform  
-- **Monitoring Stack** → Observability with Prometheus + Grafana  
-
----
-
 ## 📚 Learning Goals (2025)
 
 - Q1 → Build scalable CI/CD pipelines  
@@ -86,10 +78,6 @@ Focused on **Automation, CI/CD, and Cloud-Native Development**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-296&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-296&theme=tokyo-night" alt="Activity Graph"/>
 </p>
 
 ---
