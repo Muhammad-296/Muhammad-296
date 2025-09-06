@@ -83,12 +83,9 @@ Focused on <b>Automation, CI/CD, Cloud-Native Development, and Observability</b>
 
 ## 📖 DevOps Quotes  
 
-<details>
-  <summary>💡 Click to expand</summary>
-  <i>"You build it, you run it." – Werner Vogels, Amazon CTO</i><br>
-  <i>"Move fast, break things, learn faster." – DevOps Culture</i><br>
-  <i>"Automate everything you can." – Unknown</i>
-</details>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=devops" alt="Random DevOps Quote"/>
+</p>
 
 ---
 
