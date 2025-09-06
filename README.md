@@ -54,6 +54,15 @@ Focused on <b>Automation, CI/CD, Cloud-Native Development, and Observability</b>
 
 ---
 
+### 🔮 Upcoming Projects
+<p align="center">
+  <img src="https://img.shields.io/badge/📦-CI%2FCD%20Pipeline%20Demo-informational?style=for-the-badge&logo=githubactions"/>
+  <img src="https://img.shields.io/badge/☸️-Kubernetes%20Monitoring%20Lab-success?style=for-the-badge&logo=kubernetes"/>
+  <img src="https://img.shields.io/badge/📊-Observability%20with%20Grafana%20%26%20Prometheus-critical?style=for-the-badge&logo=grafana"/>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-296&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
