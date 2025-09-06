@@ -3,8 +3,8 @@
 <h3 align="center">Electronics & DevOps Enthusiast</h3>
 
 <p align="center">
-Aspiring DevOps engineer | Electronics & Communication Engineering Student in Egypt<br>
-Focused on <b>Automation, CI/CD, and Cloud-Native Development</b>
+🚀 Aspiring DevOps Engineer | 🎓 Electronics & Communication Engineering Student (Egypt)<br>
+Focused on <b>Automation, CI/CD, Cloud-Native Development, and Observability</b>
 </p>
 
 ---
@@ -12,7 +12,7 @@ Focused on <b>Automation, CI/CD, and Cloud-Native Development</b>
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0CF7D0&center=true&vCenter=true&width=500&lines=DevOps+Engineer+in+Progress;Automation+•+CI%2FCD+•+Cloud;Always+Learning+•+Always+Building" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0CF7D0&center=true&vCenter=true&width=550&lines=DevOps+Engineer+in+Progress;Automation+•+CI%2FCD+•+Cloud;Always+Learning+•+Always+Building;Electronics+%2B+DevOps+Mindset" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -20,9 +20,10 @@ Focused on <b>Automation, CI/CD, and Cloud-Native Development</b>
 
 ## 👨‍💻 About Me  
 
-- 🎓 Electronics & Communication Engineering student (Egypt)  
-- 🌩️ Exploring **Cloud (AWS & Azure), IaC, and CI/CD**  
-- 🛠️ Passionate about **automation, scalability, and observability**  
+- 🎓 Studying **Electronics & Communication Engineering** in Egypt  
+- ☁️ Exploring **AWS, Azure, IaC, and CI/CD**  
+- 🛠️ Passionate about **automation, scalability, monitoring, and cloud-native apps**  
+- 📌 Currently building a foundation in **DevOps practices**  
 
 <p align="center">
   <img src="https://img.shields.io/badge/DevOps-Engineer%20in%20Progress-blue?style=flat&logo=devops"/>
@@ -49,17 +50,17 @@ Focused on <b>Automation, CI/CD, and Cloud-Native Development</b>
   <img src="https://img.shields.io/badge/🛠️-CI%2FCD%20(Jenkins%20%7C%20GitHub%20Actions)-purple?style=for-the-badge&logo=githubactions"/>
   <img src="https://img.shields.io/badge/💻-Linux%20%7C%20Bash%20Scripting-gray?style=for-the-badge&logo=linux"/>
   <img src="https://img.shields.io/badge/🔍-Monitoring%20(Prometheus%20%7C%20Grafana)-red?style=for-the-badge&logo=grafana"/>
-  <img src="https://img.shields.io/badge/📖-Learning%20IaC%20%7C%20GitOps-yellow?style=for-the-badge&logo=terraform"/>
+  <img src="https://img.shields.io/badge/📖-IaC%20%7C%20GitOps-yellow?style=for-the-badge&logo=terraform"/>
 </p>
 
 ---
 
-## 📚 Learning Goals (2025)
+## 📚 2025 Learning Roadmap  
 
-- ✅ Q1 → Build scalable CI/CD pipelines  
-- ⏳ Q2 → Master Kubernetes workloads & Helm charts  
-- 🔜 Q3 → Improve observability (Prometheus, Grafana, OpenTelemetry)  
-- 🔜 Q4 → Cloud automation with IaC + GitOps  
+- ✅ **Q1:** Build scalable CI/CD pipelines  
+- ⏳ **Q2:** Master Kubernetes workloads & Helm charts  
+- 🔜 **Q3:** Improve observability (Prometheus, Grafana, OpenTelemetry)  
+- 🔜 **Q4:** Automate infrastructure with **IaC + GitOps**  
 
 ---
 
@@ -71,14 +72,16 @@ Focused on <b>Automation, CI/CD, and Cloud-Native Development</b>
   </a>
 </p>
 
+### 🔮 Upcoming Projects  
 <p align="center">
-  <img src="https://img.shields.io/badge/Planned-📦%20CI%2FCD%20Pipeline%20Demo-gray?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Planned-☸️%20Kubernetes%20Monitoring%20Lab-gray?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📦-CI%2FCD%20Pipeline%20Demo-informational?style=for-the-badge&logo=githubactions"/>
+  <img src="https://img.shields.io/badge/☸️-Kubernetes%20Monitoring%20Lab-success?style=for-the-badge&logo=kubernetes"/>
+  <img src="https://img.shields.io/badge/📊-Observability%20with%20Grafana%20%26%20Prometheus-critical?style=for-the-badge&logo=grafana"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats & Activity  
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-296&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
@@ -129,6 +132,6 @@ Focused on <b>Automation, CI/CD, and Cloud-Native Development</b>
 
 <p align="center">
   <a href="https://github.com/Muhammad-296?tab=repositories">
-    <img src="https://img.shields.io/badge/⭐-Star%20my%20repos-yellow" />
+    <img src="https://img.shields.io/badge/⭐-Star%20my%20repos-yellow?style=for-the-badge" />
   </a>
 </p>
