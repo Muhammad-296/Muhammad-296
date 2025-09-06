@@ -18,6 +18,15 @@ Electronics & Communication Engineering Student in Egypt
 
 ---
 
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/DevOps-In_Progress-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-CI%2FCD-yellow?style=flat-square"/>
+</p>
+
+---
+
 ## 🔧 Tech Stack  
 
 <p align="center">
@@ -42,6 +51,10 @@ Electronics & Communication Engineering Student in Egypt
   <a href="https://www.linkedin.com/in/muhammad-abdulhamid/"><img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/></a>
   &nbsp;
   <a href="https://github.com/Muhammad-296"><img src="https://img.icons8.com/material-outlined/48/github.png" width="40" alt="GitHub"/></a>
+</p>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-296&label=Profile+Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
@@ -71,6 +84,14 @@ Electronics & Communication Engineering Student in Egypt
 
 ---
 
-> “In DevOps, the best practice is the one you can automate.”  
-> “The goal of CI/CD is not speed, but confidence.”  
-> “Cloud is about scalability, automation, and resilience.”
+## 🐍 Contribution Snake  
+
+![snake gif](https://github.com/Muhammad-296/Muhammad-296/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📖 DevOps Quotes  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random DevOps Quote"/>
+</p>
