@@ -1,19 +1,10 @@
 <!-- Profile Header -->
 <h2 align="center">👋 Hi, I'm Muhammad</h2>
-<h3 align="center">Electronics Engineer | Aspiring DevOps Engineer</h3>
+<h3 align="center">Aspiring DevOps Engineer | Electronics Engineer</h3>
 
 <p align="center">
-Focused on Automation, CI/CD, and Cloud-Native Development<br>
+Focused on Automation, CI/CD, and Cloud-Native Development  
 Electronics & Communication Engineering Student in Egypt
-</p>
-
----
-
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0CF7D0&center=true&vCenter=true&width=500&lines=DevOps+Engineer+in+Progress;Automation+•+CI%2FCD+•+Cloud;Always+Learning+•+Always+Building" alt="Typing SVG"/>
-  </a>
 </p>
 
 ---
@@ -21,16 +12,16 @@ Electronics & Communication Engineering Student in Egypt
 ## 🔧 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,ansible,githubactions,jenkins,docker,kubernetes,helm,linux,git,bash,python" alt="skills logos"/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,git,bash,python" alt="skills logos"/>
 </p>
 
 ---
 
 ## 📚 Learning Goals (2025)
 
-- Build scalable, production-grade CI/CD pipelines  
-- Master Kubernetes workloads & Helm charts  
-- Improve observability with Prometheus, Grafana, and OpenTelemetry  
+- Build scalable CI/CD pipelines  
+- Master Kubernetes deployments & Helm charts  
+- Strengthen observability with Prometheus + Grafana  
 
 ---
 
@@ -46,31 +37,13 @@ Electronics & Communication Engineering Student in Egypt
 
 ---
 
-## 📊 GitHub Stats & Activity  
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-296&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-296&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-296&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-296&theme=tokyo-night" alt="Activity Graph"/>
-</p>
-
 ---
 
-## 🏆 GitHub Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-296&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
-</p>
-
----
-
-> “In DevOps, the best practice is the one you can automate.”  
-> “The goal of CI/CD is not speed, but confidence.”  
-> “Cloud is about scalability, automation, and resilience.”
+> “The goal of CI/CD is not speed, but confidence.”
