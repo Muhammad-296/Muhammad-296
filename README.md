@@ -58,15 +58,17 @@ Focused on <b>Automation, CI/CD, Cloud-Native Development, and Observability</b>
 
 <p align="center">
   <a href="https://github.com/Muhammad-296/Flight-Reservation-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-296&repo=Flight-Reservation-App&theme=tokyonight&hide_border=true&v=2" />
+    <img src="https://img.shields.io/badge/✈️-Flight%20Reservation%20App-blue?style=for-the-badge&logo=python"/>
   </a>
-</p>
-
-### 🔮 Upcoming Projects  
-<p align="center">
-  <img src="https://img.shields.io/badge/📦-CI%2FCD%20Pipeline%20Demo-informational?style=for-the-badge&logo=githubactions"/>
-  <img src="https://img.shields.io/badge/☸️-Kubernetes%20Monitoring%20Lab-success?style=for-the-badge&logo=kubernetes"/>
-  <img src="https://img.shields.io/badge/📊-Observability%20with%20Grafana%20%26%20Prometheus-critical?style=for-the-badge&logo=grafana"/>
+  <a href="https://github.com/Muhammad-296">
+    <img src="https://img.shields.io/badge/⚙️-CI%2FCD%20Pipeline%20Demo-green?style=for-the-badge&logo=githubactions"/>
+  </a>
+  <a href="https://github.com/Muhammad-296">
+    <img src="https://img.shields.io/badge/☸️-Kubernetes%20Monitoring%20Lab-success?style=for-the-badge&logo=kubernetes"/>
+  </a>
+  <a href="https://github.com/Muhammad-296">
+    <img src="https://img.shields.io/badge/📊-Observability%20with%20Grafana%20%26%20Prometheus-orange?style=for-the-badge&logo=grafana"/>
+  </a>
 </p>
 
 ---
