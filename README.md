@@ -1,10 +1,10 @@
 <!-- Profile Header -->
 <h2 align="center">👋 Hi, I'm Muhammad</h2>
-<h3 align="center">Electronics Engineer | Aspiring DevOps Engineer</h3>
+<h3 align="center">Aspiring DevOps Engineer | Cloud • CI/CD • Automation</h3>
 
 <p align="center">
-Focused on Automation, CI/CD, and Cloud-Native Development<br>
-Electronics & Communication Engineering Student in Egypt
+Electronics & Communication Engineering Student in Egypt<br>
+Focused on Automation, Cloud-Native Development, and Observability
 </p>
 
 ---
@@ -20,9 +20,9 @@ Electronics & Communication Engineering Student in Egypt
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/DevOps-In_Progress-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Focus-CI%2FCD-yellow?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DevOps-In%20Progress-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS%20|%20Azure-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-CI/CD-yellow?style=for-the-badge"/>
 </p>
 
 ---
@@ -83,8 +83,6 @@ Electronics & Communication Engineering Student in Egypt
 </p>
 
 ---
-
-## 📖 DevOps Quotes  
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random DevOps Quote"/>
