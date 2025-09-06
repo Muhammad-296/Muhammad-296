@@ -58,9 +58,15 @@ Focused on **Automation, CI/CD, and Cloud-Native Development**
 </p>
 
 <p align="center">
+  ✈️ A simple desktop flight reservation system built with **Python, Tkinter, and SQLite**.  
+  Demonstrates GUI integration with a database to perform basic **CRUD operations**.
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Coming%20Soon-Project%202-gray?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Coming%20Soon-Project%203-gray?style=for-the-badge" />
 </p>
+
 
 ---
 
