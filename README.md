@@ -1,4 +1,8 @@
-<!-- Profile Header -->
+<!-- Profile Header with Photo -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/174514915?v=4" width="180" height="180" style="border-radius:50%" alt="Muhammad Ahmed"/>
+</p>
+
 <h2 align="center">👋 Hi, I'm Muhammad</h2>
 <h3 align="center">Electronics & DevOps Enthusiast</h3>
 
