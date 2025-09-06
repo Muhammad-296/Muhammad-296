@@ -26,20 +26,26 @@ Focused on automation, CI/CD, and cloud-native development
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects  
 
-- **CI/CD with GitHub Actions** — build, test, and Dockerize a sample app  
-  👉 [View Repo](https://github.com/Muhammad-296/<repo>)
+<p align="center">
+  <a href="https://github.com/Muhammad-296/<repo1>">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-296&repo=<repo1>&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Muhammad-296/<repo2>">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-296&repo=<repo2>&theme=tokyonight" />
+  </a>
+</p>
 
-- **Terraform AWS Lab** — provision EC2, S3, IAM using Infrastructure as Code  
-  👉 [View Repo](https://github.com/Muhammad-296/<repo>)
-
-- **Ansible Monitoring Setup** — automate Prometheus + Grafana installation  
-  👉 [View Repo](https://github.com/Muhammad-296/<repo>)
+<p align="center">
+  <a href="https://github.com/Muhammad-296/<repo3>">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-296&repo=<repo3>&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
-## 📚 Learning Goals (2025)
+## 📚 Learning Goals (2025)  
 
 - Production-grade CI/CD pipelines  
 - Kubernetes deployment practices  
@@ -47,7 +53,7 @@ Focused on automation, CI/CD, and cloud-native development
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me  
 
 <p align="center">
   <a href="mailto:muhammad.al.ajami.se@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Email"/></a>
@@ -82,6 +88,32 @@ Focused on automation, CI/CD, and cloud-native development
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-296&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+## 📈 Activity Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-296&theme=tokyo-night&hide_border=true" alt="activity graph"/>
+</p>
+
+---
+
+## 🔥 Quick Stats  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-296&label=Profile+Views&color=blue&style=flat" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/Muhammad-296?label=Followers&style=social" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/Muhammad-296?affiliations=OWNER&style=social" alt="stars"/>
+</p>
+
+---
+
+## 💡 Quote of the Day  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/>
 </p>
 
 ---
