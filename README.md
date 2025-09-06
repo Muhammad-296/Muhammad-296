@@ -84,12 +84,6 @@ Electronics & Communication Engineering Student in Egypt
 
 ---
 
-## 🐍 Contribution Snake  
-
-![snake gif](https://github.com/Muhammad-296/Muhammad-296/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 📖 DevOps Quotes  
 
 <p align="center">
