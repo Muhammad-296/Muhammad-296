@@ -39,13 +39,15 @@ Focused on automation, CI/CD, and cloud-native development.
 ---
 
 ## 📫 Contact
-<a href="muhammad.al.ajami.se@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" alt="Email"/>
-</a>
-&nbsp;
-<a href="www.linkedin.com/in/muhammad-abdulhamid">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40" alt="LinkedIn"/>
-</a>
+<p align="center">
+  <a href="mailto:muhammad.al.ajami.se@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/muhammad-abdulhamid/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
