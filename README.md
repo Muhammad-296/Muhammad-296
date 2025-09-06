@@ -18,27 +18,10 @@ Focused on automation, CI/CD, and cloud-native development
 
 ---
 
-## 🔧 Tech Stack
+## 🔧 Tech Stack  
 
 <p align="center">
-  <!-- Cloud -->
-  <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="50" alt="AWS"/>
-  <img src="https://img.icons8.com/color/48/azure-1.png" width="50" alt="Azure"/>
-  <!-- IaC -->
-  <img src="https://img.icons8.com/color/48/terraform.png" width="50" alt="Terraform"/>
-  <img src="https://img.icons8.com/color/48/cloud.png" width="50" alt="CloudFormation"/>
-  <!-- Config Mgmt -->
-  <img src="https://img.icons8.com/color/48/ansible.png" width="50" alt="Ansible"/>
-  <!-- CI/CD -->
-  <img src="https://img.icons8.com/ios-filled/50/github.png" width="50" alt="GitHub Actions"/>
-  <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" width="50" alt="Jenkins"/>
-  <!-- Containers -->
-  <img src="https://img.icons8.com/color/48/docker.png" width="50" alt="Docker"/>
-  <img src="https://img.icons8.com/color/48/kubernetes.png" width="50" alt="Kubernetes"/>
-  <!-- Scripting -->
-  <img src="https://img.icons8.com/plasticine/48/bash.png" width="50" alt="Bash"/>
-  <img src="https://img.icons8.com/color/48/python.png" width="50" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/yaml.png" width="50" alt="YAML"/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,ansible,githubactions,jenkins,docker,kubernetes,bash,python" alt="skills logos"/>
 </p>
 
 ---
@@ -82,31 +65,31 @@ Focused on automation, CI/CD, and cloud-native development
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats & Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-296&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-296&theme=tokyonight" height="150" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-296&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-296&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-296&layout=compact&theme=tokyonight" height="150" alt="Top Languages"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-296&theme=darkhub&margin-w=15&margin-h=15" alt="Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-296&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## ⚡ Fun Animation
+## 🏆 GitHub Achievements  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" alt="Coding Animation"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-296&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation  
+
+<p align="center">
+  <img src="https://github.com/Muhammad-296/Muhammad-296/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
