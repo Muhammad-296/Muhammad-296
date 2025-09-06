@@ -29,25 +29,24 @@ Electronics & Communication Engineering Student in Egypt
 ## 🔧 Tech Stack  
 
 <p align="center">
-  <b>☁️ Cloud Platforms</b><br>
-  <img src="https://skillicons.dev/icons?i=aws,azure" alt="cloud logos"/>
-  <br><br>
 
-  <b>⚙️ Infrastructure as Code & Automation</b><br>
-  <img src="https://skillicons.dev/icons?i=terraform,ansible" alt="iac logos"/>
-  <br><br>
+  ☁️ <b>Cloud:</b>  
+  <img src="https://skillicons.dev/icons?i=aws,azure" height="40"/>&nbsp;&nbsp;
 
-  <b>🚀 CI/CD & DevOps Tools</b><br>
-  <img src="https://skillicons.dev/icons?i=githubactions,jenkins" alt="cicd logos"/>
-  <br><br>
+  ⚙️ <b>IaC & Automation:</b>  
+  <img src="https://skillicons.dev/icons?i=terraform,ansible" height="40"/>&nbsp;&nbsp;
 
-  <b>📦 Containers & Orchestration</b><br>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" alt="containers logos"/>
-  <br><br>
+  🚀 <b>CI/CD:</b>  
+  <img src="https://skillicons.dev/icons?i=githubactions,jenkins" height="40"/>&nbsp;&nbsp;
 
-  <b>💻 OS & Programming</b><br>
-  <img src="https://skillicons.dev/icons?i=linux,git,bash,python" alt="languages logos"/>
+  📦 <b>Containers:</b>  
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" height="40"/>&nbsp;&nbsp;
+
+  💻 <b>OS & Programming:</b>  
+  <img src="https://skillicons.dev/icons?i=linux,git,bash,python" height="40"/>
+
 </p>
+
 
 ---
 
