@@ -60,9 +60,6 @@ Focused on <b>Automation, CI/CD, Cloud-Native Development, and Observability</b>
   <a href="https://github.com/Muhammad-296/Flight-Reservation-App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-296&repo=Flight-Reservation-App&theme=tokyonight&hide_border=true&v=2" />
   </a>
-  <a href="https://github.com/Muhammad-296/your-devops-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-296&repo=your-devops-project&theme=tokyonight&hide_border=true&v=2" />
-  </a>
 </p>
 
 ### 🔮 Upcoming Projects  
