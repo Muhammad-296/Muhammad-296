@@ -7,12 +7,16 @@
 Focused on <b>Automation, CI/CD, Cloud-Native Development, and Observability</b>
 </p>
 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-296&label=Profile+Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
 ---
 
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0CF7D0&center=true&vCenter=true&width=550&lines=DevOps+Engineer+in+Progress;Automation+•+CI%2FCD+•+Cloud;Always+Learning+•+Always+Building;Electronics+%2B+DevOps+Mindset" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0CF7D0&center=true&vCenter=true&width=550&lines=Automation+•+CI%2FCD+•+Cloud;Always+Learning+•+Always+Building;Electronics+%2B+DevOps+Mindset" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -20,10 +24,10 @@ Focused on <b>Automation, CI/CD, Cloud-Native Development, and Observability</b>
 
 ## 👨‍💻 About Me  
 
-- 🎓 Studying **Electronics & Communication Engineering** in Egypt  
-- ☁️ Exploring **AWS, Azure, IaC, and CI/CD**  
-- 🛠️ Passionate about **automation, scalability, monitoring, and cloud-native apps**  
-- 📌 Currently building a foundation in **DevOps practices**  
+- 🎓 Electronics & Communication Engineering student (Egypt)  
+- ☁️ Learning **AWS, Azure, IaC, and CI/CD**  
+- 🛠️ Focused on **automation, scalability, and observability**  
+- 📌 Building a solid **DevOps foundation**  
 
 <p align="center">
   <img src="https://img.shields.io/badge/DevOps-Engineer%20in%20Progress-blue?style=flat&logo=devops"/>
@@ -36,7 +40,7 @@ Focused on <b>Automation, CI/CD, Cloud-Native Development, and Observability</b>
 ## 🔧 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,githubactions,jenkins,docker,kubernetes,nginx,mysql,postman,vscode,linux,git,bash,python" height="45"/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,githubactions,jenkins,docker,kubernetes,nginx,mysql,postman,linux,vscode,git,bash,python" height="45"/>
 </p>
 
 ---
@@ -56,6 +60,9 @@ Focused on <b>Automation, CI/CD, Cloud-Native Development, and Observability</b>
   <a href="https://github.com/Muhammad-296/Flight-Reservation-App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-296&repo=Flight-Reservation-App&theme=tokyonight&hide_border=true&v=2" />
   </a>
+  <a href="https://github.com/Muhammad-296/your-devops-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-296&repo=your-devops-project&theme=tokyonight&hide_border=true&v=2" />
+  </a>
 </p>
 
 ### 🔮 Upcoming Projects  
@@ -72,15 +79,19 @@ Focused on <b>Automation, CI/CD, Cloud-Native Development, and Observability</b>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-296&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-296&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-296&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
 ## 📖 DevOps Quotes  
 
-<p align="center">
-  <i>"You build it, you run it." – Werner Vogels, Amazon CTO</i>
-</p>
+<details>
+  <summary>💡 Click to expand</summary>
+  <i>"You build it, you run it." – Werner Vogels, Amazon CTO</i><br>
+  <i>"Move fast, break things, learn faster." – DevOps Culture</i><br>
+  <i>"Automate everything you can." – Unknown</i>
+</details>
 
 ---
 
@@ -92,10 +103,6 @@ Focused on <b>Automation, CI/CD, Cloud-Native Development, and Observability</b>
   <a href="https://www.linkedin.com/in/muhammad-abdulhamid/"><img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/></a>
   &nbsp;
   <a href="https://github.com/Muhammad-296"><img src="https://img.icons8.com/material-outlined/48/github.png" width="40" alt="GitHub"/></a>
-</p>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Muhammad-296&label=Profile+Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
