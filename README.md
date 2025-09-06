@@ -38,15 +38,7 @@ Focused on <b>Automation, CI/CD, Cloud-Native Development, and Observability</b>
 
 ## 🔧 Tech Stack
 <p align="center">
-  <b>Cloud & IaC:</b> AWS, Azure, Terraform <br>
-  <b>CI/CD & Automation:</b> GitHub Actions, Jenkins <br>
-  <b>Containers & Orchestration:</b> Docker, Kubernetes, Nginx <br>
-  <b>Databases & Tools:</b> MySQL, Postman <br>
-  <b>Programming & OS:</b> Python, Bash, Linux
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,githubactions,jenkins,docker,kubernetes,nginx,mysql,postman,linux,vscode,git,bash,python" height="45"/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,githubactions,jenkins,docker,kubernetes,python,linux,git" height="45"/>
 </p>
 
 ---
