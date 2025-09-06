@@ -1,10 +1,10 @@
 <!-- Profile Header -->
 <h2 align="center">👋 Hi, I'm Muhammad</h2>
-<h3 align="center">Electronics Engineer | Aspiring DevOps Engineer</h3>
+<h3 align="center">Electronics & DevOps Enthusiast</h3>
 
 <p align="center">
-Focused on Automation, CI/CD, and Cloud-Native Development<br>
-Electronics & Communication Engineering Student in Egypt
+Aspiring DevOps engineer | Electronics & Communication Engineering Student in Egypt<br>
+Focused on **Automation, CI/CD, and Cloud-Native Development**
 </p>
 
 ---
@@ -22,29 +22,42 @@ Electronics & Communication Engineering Student in Egypt
 
 - 🎓 Electronics & Communication Engineering student in Egypt  
 - 🌱 Building skills in **DevOps, Cloud, and CI/CD**  
-- 🚀 Interested in **automation and cloud-native architectures**  
+- 🚀 Passionate about **automation and cloud-native architectures**  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DevOps-Engineer%20in%20Progress-blue?style=flat&logo=devops"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS%20|%20Azure-orange?style=flat&logo=cloud"/>
+  <img src="https://img.shields.io/badge/Linux-Enthusiast-gray?style=flat&logo=linux"/>
+</p>
 
 ---
 
 ## 🔧 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,githubactions,jenkins,docker,kubernetes,linux,git,bash,python" height="45"/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,githubactions,jenkins,docker,kubernetes,ansible,helm,prometheus,grafana,linux,git,bash,python" height="45"/>
 </p>
 
+---
 
+## 🚀 Featured Projects  
+
+- **CI/CD Pipeline Demo** → Automated build & deploy with GitHub Actions + Docker + Kubernetes  
+- **Terraform AWS Infrastructure** → Provisioning scalable cloud infra using Terraform  
+- **Monitoring Stack** → Observability with Prometheus + Grafana  
 
 ---
 
 ## 📚 Learning Goals (2025)
 
-- Build scalable, production-grade CI/CD pipelines  
-- Master Kubernetes workloads & Helm charts  
-- Improve observability with Prometheus, Grafana, and OpenTelemetry  
+- Q1 → Build scalable CI/CD pipelines  
+- Q2 → Master Kubernetes workloads & Helm charts  
+- Q3 → Improve observability with Prometheus, Grafana, OpenTelemetry  
+- Q4 → Advanced Cloud automation with IaC + GitOps  
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me  
 
 <p align="center">
   <a href="mailto:muhammad.al.ajami.se@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Email"/></a>
@@ -84,7 +97,7 @@ Electronics & Communication Engineering Student in Egypt
 ## 🏆 GitHub Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-296&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-296&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
 
 ---
