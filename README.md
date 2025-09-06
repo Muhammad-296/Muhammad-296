@@ -1,10 +1,10 @@
 <!-- Profile Header -->
 <h2 align="center">👋 Hi, I'm Muhammad</h2>
-<h3 align="center">Aspiring DevOps Engineer | Cloud • CI/CD • Automation</h3>
+<h3 align="center">Electronics Engineer | Aspiring DevOps Engineer</h3>
 
 <p align="center">
-Electronics & Communication Engineering Student in Egypt<br>
-Focused on Automation, Cloud-Native Development, and Observability
+Focused on Automation, CI/CD, and Cloud-Native Development<br>
+Electronics & Communication Engineering Student in Egypt
 </p>
 
 ---
@@ -18,12 +18,11 @@ Focused on Automation, Cloud-Native Development, and Observability
 
 ---
 
-<!-- Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/DevOps-In%20Progress-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud-AWS%20|%20Azure-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-CI/CD-yellow?style=for-the-badge"/>
-</p>
+## 👨‍💻 About Me  
+
+- 🎓 Electronics & Communication Engineering student in Egypt  
+- 🌱 Building skills in **DevOps, Cloud, and CI/CD**  
+- 🚀 Interested in **automation and cloud-native architectures**  
 
 ---
 
@@ -62,7 +61,11 @@ Focused on Automation, Cloud-Native Development, and Observability
 ## 📊 GitHub Stats & Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-296&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Muhammad-296&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Muhammad-296&show_icons=true&theme=default&hide_border=true&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-296&show_icons=true"/>
+  </picture>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-296&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
@@ -84,6 +87,16 @@ Focused on Automation, Cloud-Native Development, and Observability
 
 ---
 
+## 📖 DevOps Quotes  
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random DevOps Quote"/>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/Muhammad-296?tab=repositories">
+    <img src="https://img.shields.io/badge/⭐-Star%20my%20repos-yellow" />
+  </a>
 </p>
