@@ -3,7 +3,7 @@
 <h3 align="center">Electronics Student | Aspiring DevOps Engineer</h3>
 
 <p align="center">
-🚀 Passionate about Automation, CI/CD, Cloud, and Observability <br>
+🚀 Focused on Automation, CI/CD, Cloud, and Observability <br>
 🎓 Electronics & Communication Engineering | Egypt
 </p>
 
@@ -30,47 +30,52 @@
 
 ---
 
-## 📚 2025 Learning Roadmap
-- ✅ **Q1**: CI/CD pipelines  
-- ⏳ **Q2**: Kubernetes & Helm  
-- 🔜 **Q3**: Observability (Prometheus, Grafana, OpenTelemetry)  
-- 🔜 **Q4**: IaC + GitOps Automation  
+## 🚀 Projects & Learning Roadmap (2025)
 
----
-
-## 🚀 Featured Project
-<p align="center">
-  <a href="https://github.com/Muhammad-296/Flight-Reservation-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-296&repo=Flight-Reservation-App&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  ✈️ <b>Flight-Reservation-App</b> — Python-based flight booking system with reservation, cancellation, and user management features.
-</p>
-
----
-
-## 🔮 Upcoming Projects
-<p align="center">
-  <img src="https://img.shields.io/badge/CI%2FCD-Pipeline-blue?style=for-the-badge&logo=githubactions"/>
-  <br><sub>End-to-end CI/CD pipeline with GitHub Actions for automated build, test, and deployment.</sub>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Kubernetes-Monitoring-green?style=for-the-badge&logo=kubernetes"/>
-  <br><sub>Kubernetes monitoring stack using Prometheus, Grafana, and alerting rules.</sub>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Observability-Stack-red?style=for-the-badge&logo=grafana"/>
-  <br><sub>Observability toolkit with metrics, logging, and tracing powered by Grafana, Prometheus, and OpenTelemetry.</sub>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/IaC-GitOps-purple?style=for-the-badge&logo=terraform"/>
-  <br><sub>Infrastructure-as-Code automation with Terraform and GitOps workflows.</sub>
-</p>
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Quarter</th>
+    <th>Status</th>
+    <th>Description</th>
+    <th>Tech</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Muhammad-296/Flight-Reservation-App">✈️ Flight-Reservation-App</a></td>
+    <td>—</td>
+    <td><img src="https://img.shields.io/badge/Done-✅-brightgreen?style=flat-square"></td>
+    <td>Python-based flight booking system with reservation, cancellation, and user management features.</td>
+    <td>Python, Flask</td>
+  </tr>
+  <tr>
+    <td><a href="#">🔄 CI-CD-Pipeline</a></td>
+    <td>Q1</td>
+    <td><img src="https://img.shields.io/badge/In%20Progress-⏳-blue?style=flat-square"></td>
+    <td>End-to-end CI/CD pipeline with GitHub Actions for automated build, test, and deployment.</td>
+    <td>GitHub Actions, Docker</td>
+  </tr>
+  <tr>
+    <td><a href="#">📊 Kubernetes-Monitoring</a></td>
+    <td>Q2</td>
+    <td><img src="https://img.shields.io/badge/Planned-🔜-orange?style=flat-square"></td>
+    <td>Kubernetes monitoring stack using Prometheus, Grafana, and alerting rules.</td>
+    <td>Kubernetes, Grafana, Prometheus</td>
+  </tr>
+  <tr>
+    <td><a href="#">🔍 Observability-Stack</a></td>
+    <td>Q3</td>
+    <td><img src="https://img.shields.io/badge/Planned-🔜-orange?style=flat-square"></td>
+    <td>Observability toolkit with metrics, logging, and tracing powered by Grafana, Prometheus, and OpenTelemetry.</td>
+    <td>Grafana, Prometheus, OpenTelemetry</td>
+  </tr>
+  <tr>
+    <td><a href="#">⚙️ IaC-GitOps-Automation</a></td>
+    <td>Q4</td>
+    <td><img src="https://img.shields.io/badge/Planned-🔜-orange?style=flat-square"></td>
+    <td>Infrastructure-as-Code automation with Terraform and GitOps workflows.</td>
+    <td>Terraform, GitOps</td>
+  </tr>
+</table>
 
 ---
 
