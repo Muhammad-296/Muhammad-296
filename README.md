@@ -4,7 +4,7 @@
 
 <p align="center">
 🚀 Aspiring DevOps Engineer | 🎓 Electronics & Communication Student (Egypt)<br>
-<i>Focused on Automation, CI/CD, Cloud, and Observability</i>
+<i>Focused on Automation, CI/CD, Cloud, Kubernetes, and Observability</i>
 </p>
 
 <!-- Social -->
@@ -32,7 +32,7 @@
 
 ## 📚 Learning Path (2025)
 - ✅ Q1: CI/CD pipelines with GitHub Actions + Jenkins  
-- ⏳ Q2: Kubernetes (Hands-on with Helm charts)  
+- ⏳ Q2: Kubernetes (Hands-on Helm charts)  
 - 🔜 Q3: Observability stack (Prometheus, Grafana, OpenTelemetry)  
 - 🔮 Q4: GitOps with ArgoCD + Terraform  
 
@@ -46,16 +46,16 @@
   <a href="https://github.com/Muhammad-296/CI-CD-Demo">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-296&repo=CI-CD-Demo&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/Muhammad-296/Terraform-IaC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-296&repo=Terraform-IaC&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Muhammad-296/Terraform-IaC-Lab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-296&repo=Terraform-IaC-Lab&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 ---
 
 ## 🔮 Upcoming
-- 🚧 Building: End-to-End CI/CD pipeline with GitHub Actions  
-- 📡 Exploring: Kubernetes monitoring stack (Grafana + Prometheus)  
+- 🚧 Building: End-to-End CI/CD pipeline on GitHub Actions  
+- 📡 Exploring: Kubernetes monitoring stack with Grafana + Prometheus  
 - 📦 Automating: Infrastructure with Terraform + Ansible  
 
 ---
