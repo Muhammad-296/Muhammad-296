@@ -45,11 +45,6 @@
   </a>
 </p>
 
-<p align="center">
-  ✈️ <b>Flight-Reservation-App</b> — A Python-based flight booking system with features for reservations, cancellations, and user management.
-</p>
-
-
 ---
 
 ## 🔮 What’s Next
