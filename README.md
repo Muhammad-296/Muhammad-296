@@ -45,13 +45,31 @@
   </a>
 </p>
 
+<p align="center">
+  ✈️ <b>Flight-Reservation-App</b> — Python-based flight booking system with reservation, cancellation, and user management features.
+</p>
+
 ---
 
-## 🔮 What’s Next
+## 🔮 Upcoming Projects
 <p align="center">
   <img src="https://img.shields.io/badge/CI%2FCD-Pipeline-blue?style=for-the-badge&logo=githubactions"/>
+  <br><sub>End-to-end CI/CD pipeline with GitHub Actions for automated build, test, and deployment.</sub>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Kubernetes-Monitoring-green?style=for-the-badge&logo=kubernetes"/>
-  <img src="https://img.shields.io/badge/Observability-Grafana%20%26%20Prometheus-red?style=for-the-badge&logo=grafana"/>
+  <br><sub>Kubernetes monitoring stack using Prometheus, Grafana, and alerting rules.</sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Observability-Stack-red?style=for-the-badge&logo=grafana"/>
+  <br><sub>Observability toolkit with metrics, logging, and tracing powered by Grafana, Prometheus, and OpenTelemetry.</sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IaC-GitOps-purple?style=for-the-badge&logo=terraform"/>
+  <br><sub>Infrastructure-as-Code automation with Terraform and GitOps workflows.</sub>
 </p>
 
 ---
