@@ -9,9 +9,9 @@
 
 <!-- Social -->
 <p align="center">
-  <a href="mailto:muhammad.al.ajami.se@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/muhammad-abdulhamid/"><img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/></a>
-  <a href="https://github.com/Muhammad-296"><img src="https://img.icons8.com/material-outlined/48/github.png" width="40" alt="GitHub"/></a>
+  <a href="mailto:muhammad.al.ajami.se@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-abdulhamid/"><img src="https://img.icons8.com/fluency/48/linkedin.png" width="40" alt="LinkedIn"/></a>
+  <a href="https://www.facebook.com/share/15xb7rk8LZ/"><img src="https://img.icons8.com/fluency/48/facebook-new.png" width="40" alt="Facebook"/></a>
 </p>
 
 <!-- Badges -->
