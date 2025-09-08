@@ -15,16 +15,16 @@
 </p>
 
 <p align="center">
-  💡 Learning DevOps, Cloud Platforms, and Automation to grow into a professional <b>DevOps Engineer</b>.
+  💡 I’m passionate about <b>DevOps, Cloud, and Automation</b>. Currently building projects with <b>Docker, Kubernetes, and CI/CD pipelines</b> to grow into a professional DevOps Engineer.
 </p>
 
 <p align="center">
-  <!-- Animated Key Badges -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=black&color=2496ED"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=black&color=326CE5"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=black&color=7B42BC"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=black"/>
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=black"/>
+  <!-- Core Tools Badges -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 </p>
 
 ---
@@ -43,37 +43,6 @@
 
 ---
 
-## 🚀 Featured Projects  
-
-<div align="center" style="display: flex; justify-content: center; gap: 15px;">
-
-  <!-- Linux System Monitor -->
-  <div style="width: 220px; background: #1a1b27; border: 1px solid #7aa2f7; border-radius: 12px; padding: 15px; color: #c0caf5; box-shadow: 0 4px 10px rgba(0,0,0,0.3); text-align: center;">
-    <div style="font-size: 28px; margin-bottom: 6px;">🐧</div>
-    <a href="https://github.com/Muhammad-296/linux-system-monitor" style="text-decoration: none; color: #7aa2f7; font-size: 16px; font-weight: bold;">
-      Linux System Monitor
-    </a>
-    <p style="font-size: 12px; margin-top: 6px; color: #9aa5ce;">
-      Monitor system resources
-    </p>
-  </div>
-
-  <!-- Flight Reservation App -->
-  <div style="width: 220px; background: #1a1b27; border: 1px solid #bb9af7; border-radius: 12px; padding: 15px; color: #c0caf5; box-shadow: 0 4px 10px rgba(0,0,0,0.3); text-align: center;">
-    <div style="font-size: 28px; margin-bottom: 6px;">✈️</div>
-    <a href="https://github.com/Muhammad-296/Flight-Reservation-App" style="text-decoration: none; color: #bb9af7; font-size: 16px; font-weight: bold;">
-      Flight Reservation App
-    </a>
-    <p style="font-size: 12px; margin-top: 6px; color: #9aa5ce;">
-      Flight booking system
-    </p>
-  </div>
-
-</div>
-
----
-
-
 ## 🌱 Learning Roadmap  
 
 <div align="center">
@@ -82,9 +51,9 @@
 |:------:|:--------------------------:|:------------------------------------:|
 | ✅     | Linux & Scripting          | 🐧 Linux, 🖥️ Shell Scripting          |
 | ✅     | Version Control            | 🔧 Git, GitHub                        |
-| 🚀     | Cloud Platforms            | ☁️ AWS, Azure, Google Cloud           |
 | 🚀     | Containers & Orchestration | 🐳 Docker, ☸️ Kubernetes              |
 | 🚀     | Infrastructure as Code     | 🛠️ Terraform, ⚙️ Ansible              |
+| 🚀     | Cloud Platforms            | ☁️ AWS, Azure, Google Cloud           |
 | 🚀     | CI/CD Pipelines            | 🔄 GitHub Actions, Jenkins            |
 | 🎯     | Monitoring & Logging       | 📊 Prometheus, 📉 Grafana, ELK Stack  |
 | 🎯     | Security                   | 🔐 DevSecOps, Cloud Security          |
@@ -96,7 +65,7 @@
 ## 🛠️ Tech Skills  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,linux,git,docker,kubernetes,terraform,ansible,jenkins,aws,azure,gcp,prometheus,grafana&theme=light&perline=8" />
+  <img src="https://skillicons.dev/icons?i=linux,git,python,c,html,css,js,docker,kubernetes,terraform,ansible,jenkins,aws,azure,gcp,prometheus,grafana&theme=light&perline=8" />
 </p>
 
 ---
@@ -105,11 +74,6 @@
 
 <p align="center">
 
-🌍 I deploy to the cloud like others send a text. ☁️📡  
-🐳 My spirit animal is a Docker whale. 🐋  
-⌛ I write CI/CD pipelines faster than I name variables. 🔄🤯  
-☕ Coffee + Bash scripts = Infinite energy loop. 🖥️☕  
-⚡ I break things just to automate fixing them. 🛠️🤖  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🌍+I+deploy+to+the+cloud+like+others+send+a+text.;🐳+My+spirit+animal+is+a+Docker+whale.;⌛+I+write+CI%2FCD+pipelines+faster+than+I+name+variables.;☕+Coffee+%2B+Bash+scripts+%3D+Infinite+energy+loop.;⚡+I+break+things+just+to+automate+fixing+them." alt="Fun Facts Typing SVG" />
 
 </p>
-
