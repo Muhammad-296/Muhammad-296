@@ -73,10 +73,16 @@
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-296&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&line_height=24&include_all_commits=true&cache_seconds=7200&custom_title=🔥+My+GitHub+Stats" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-296&theme=tokyonight&hide_border=true&fire=FF6F61&ring=FFD700&currStreakLabel=FFFFFF" height="160" alt="GitHub Streak"/>
+  <!-- Main GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-296&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160" alt="GitHub Stats"/>
+
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=Muhammad-296&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FF6F61&ring=FFD700&currStreakLabel=FFFFFF" height="160" alt="GitHub Streak"/>
+
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-296&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages"/>
 </p>
+
 
 ---
 
