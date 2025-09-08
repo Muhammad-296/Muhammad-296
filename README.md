@@ -31,22 +31,28 @@
 
 ## 🚀 Featured Projects  
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/Muhammad-296/linux-system-monitor">
-  <img src="https://img.shields.io/badge/Linux%20System%20Monitor-000000?style=for-the-badge&logo=linux&logoColor=white&labelColor=black&color=2E8B57" />
-</a>  
-<p align="center">Monitor system resources with a clean UI</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Muhammad-296/linux-system-monitor">
+        <img src="https://img.shields.io/badge/Linux%20System%20Monitor-2E8B57?style=for-the-badge&logo=linux&logoColor=white" />
+      </a>
+      <p><i>Monitor system resources with a clean UI</i></p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Muhammad-296/Flight-Reservation-App">
+        <img src="https://img.shields.io/badge/Flight%20Reservation%20App-1E90FF?style=for-the-badge&logo=airplane&logoColor=white" />
+      </a>
+      <p><i>Simple flight booking management system</i></p>
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/Muhammad-296/Flight-Reservation-App">
-  <img src="https://img.shields.io/badge/Flight%20Reservation%20App-000000?style=for-the-badge&logo=airplane&logoColor=white&labelColor=black&color=1E90FF" />
-</a>  
-<p align="center">Simple flight booking management system</p>
-
-</p>
+</div>
 
 ---
-
 
 
 ## 🌐 Let's Connect!  
