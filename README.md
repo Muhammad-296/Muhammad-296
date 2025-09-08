@@ -32,11 +32,16 @@
 ## 🚀 Featured Projects  
 
 <p align="center">
-  
-| Project | Description |
-|---------|-------------|
-| [Linux System Monitor](https://github.com/Muhammad-296/linux-system-monitor) | Monitor system resources with a clean UI |
-| [Flight Reservation App](https://github.com/Muhammad-296/Flight-Reservation-App) | Simple flight booking management system |
+
+<a href="https://github.com/Muhammad-296/linux-system-monitor">
+  <img src="https://img.shields.io/badge/Linux%20System%20Monitor-000000?style=for-the-badge&logo=linux&logoColor=white&labelColor=black&color=2E8B57" />
+</a>  
+<p align="center">Monitor system resources with a clean UI</p>
+
+<a href="https://github.com/Muhammad-296/Flight-Reservation-App">
+  <img src="https://img.shields.io/badge/Flight%20Reservation%20App-000000?style=for-the-badge&logo=airplane&logoColor=white&labelColor=black&color=1E90FF" />
+</a>  
+<p align="center">Simple flight booking management system</p>
 
 </p>
 
