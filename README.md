@@ -29,6 +29,18 @@
 
 ---
 
+
+## 🚀 Projects  
+
+<p align="center">
+  <a href="https://github.com/Muhammad-296/linux-system-monitor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-296&repo=linux-system-monitor&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+
 ## 🌐 Let's Connect!  
 
 <div align="center">
