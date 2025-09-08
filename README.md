@@ -74,16 +74,46 @@
 ## 📈 GitHub Stats  
 
 <p align="center">
+  <!-- Main Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-296&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&custom_title=🚀 My GitHub Stats" height="160"/>
+  
+  <!-- Streak -->
   <img src="https://streak-stats.demolab.com?user=Muhammad-296&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FF6F61&ring=FFD700&currStreakLabel=FFFFFF" height="160"/>
 </p>
 
 <p align="center">
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-296&layout=compact&theme=tokyonight&hide_border=true&custom_title=🔥 Top Languages" height="160"/>
 </p>
 
 <p align="center">
+  <!-- Contribution Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-296&bg_color=1a1b27&color=ffffff&line=ff6f61&point=ffd700&area=true&hide_border=true" width="95%"/>
+</p>
+
+<p align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-296&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+</p>
+
+<p align="center">
+  <!-- Productive Time -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhammad-296&theme=tokyonight&utcOffset=3"/>
+</p>
+
+<details>
+  <summary>📊 More GitHub Insights</summary>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammad-296&theme=tokyonight"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammad-296&theme=tokyonight"/>
+  </p>
+</details>
+
+---
+
+<p align="center">
+  <!-- Profile Views -->
+  ![Profile Views](https://komarev.com/ghpvc/?username=Muhammad-296&label=Profile%20Views&color=ff6f61&style=flat)
 </p>
 
 
