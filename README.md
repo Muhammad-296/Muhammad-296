@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Muhammad+Ahmed!;Aspiring+DevOps+Engineer;Cloud+%26+Automation+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FF6F61&center=true&vCenter=true&width=400&lines=Hi%2C+I'm+Muhammad+Ahmed!;Aspiring+DevOps+Engineer;Cloud+%26+Automation+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 <p align="center">
   🎓 <b>Electronics & Communication Engineering Student</b> <br>
-  🚀 <b>DevOps & Cloud Enthusiast</b>
+  🚀 <b>Aspiring DevOps Engineer | Cloud Enthusiast</b>
 </p>
 
 <p align="center">
@@ -39,14 +39,12 @@
     <td>
       <a href="https://github.com/Muhammad-296/linux-system-monitor">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-296&repo=linux-system-monitor&theme=tokyonight&hide_border=true&card_width=300" />
-      </a><br>
-      <p align="center"><i>Bash-based tool for monitoring system resources</i></p>
+      </a>
     </td>
     <td>
       <a href="https://github.com/Muhammad-296/Flight-Reservation-App">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-296&repo=Flight-Reservation-App&theme=tokyonight&hide_border=true&card_width=300" />
-      </a><br>
-      <p align="center"><i>Full-stack app simulating booking workflows</i></p>
+      </a>
     </td>
   </tr>
 </table>
@@ -55,18 +53,7 @@
 
 ---
 
-## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-296&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-296&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/Muhammad-296/Muhammad-296/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
 
 ## 🌐 Let's Connect!  
 
@@ -113,6 +100,6 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=🌍+I+deploy+to+the+cloud+like+others+send+a+text.;🐳+My+spirit+animal+is+a+Docker+whale.;⌛+I+write+CI%2FCD+pipelines+faster+than+I+name+variables.;☕+Coffee+%2B+Bash+scripts+%3D+Infinite+energy+loop.;⚡+I+break+things+just+to+automate+fixing+them.;🔄+My+favorite+bug+is+the+one+that+automates+itself.;🛠️+I+treat+YAML+files+like+sacred+scripts." alt="Fun Facts Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🌍+I+deploy+to+the+cloud+like+others+send+a+text.;🐳+My+spirit+animal+is+a+Docker+whale.;⌛+I+write+CI%2FCD+pipelines+faster+than+I+name+variables.;☕+Coffee+%2B+Bash+scripts+%3D+Infinite+energy+loop.;⚡+I+break+things+just+to+automate+fixing+them." alt="Fun Facts Typing SVG" />
 
 </p>
