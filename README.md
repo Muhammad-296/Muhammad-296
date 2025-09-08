@@ -44,26 +44,6 @@
 
 ---
 
-
----
-
-## 🚀 Featured Projects  
-
-<div align="center">
-
-<a href="https://github.com/Muhammad-296/linux-system-monitor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-296&repo=linux-system-monitor&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Muhammad-296/Flight-Reservation-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-296&repo=Flight-Reservation-App&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-
----
-
 ## 🌱 Learning Roadmap  
 
 <div align="center">
