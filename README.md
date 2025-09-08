@@ -32,11 +32,16 @@
 ## 🚀 Featured Projects  
 
 <p align="center">
-  🔹 <a href="https://github.com/Muhammad-296/linux-system-monitor"><b>Linux System Monitor</b></a> – Monitor system resources with a clean UI.  
-  🔹 <a href="https://github.com/Muhammad-296/Flight-Reservation-App"><b>Flight Reservation App</b></a> – Simple flight booking management system.  
+  
+| Project | Description |
+|---------|-------------|
+| [Linux System Monitor](https://github.com/Muhammad-296/linux-system-monitor) | Monitor system resources with a clean UI |
+| [Flight Reservation App](https://github.com/Muhammad-296/Flight-Reservation-App) | Simple flight booking management system |
+
 </p>
 
 ---
+
 
 
 ## 🌐 Let's Connect!  
