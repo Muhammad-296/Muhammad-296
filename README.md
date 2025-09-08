@@ -27,11 +27,11 @@
 |:-----:|:---------------------------:|:------------------------------------------:|
 | ✅    | Core Programming            | C, C++, Embedded C                         |
 | ✅    | Microcontrollers            | STM32, Arduino, ESP32, ARM Cortex-M        |
-| 🚀    | RTOS & Scheduling           | FreeRTOS, Zephyr, Task Management          |
-| 🚀    | Communication Protocols     | UART, I2C, SPI, CAN, MQTT                  |
+| ✅    | RTOS & Scheduling           | FreeRTOS, Zephyr, Task Management          |
+| ✅    | Communication Protocols     | UART, I2C, SPI, CAN, MQTT                  |
 | 🚀    | IoT & Cloud Integration     | MQTT, REST APIs, ESP-IDF, Blynk, ThingsBoard |
 | 🎯    | Embedded Linux              | Yocto, Buildroot, Device Drivers           |
-| 🎯    | Hardware Design             | KiCad, Proteus, PCB Layouts                |
+| ✅    | Hardware Design             | KiCad, Proteus, PCB Layouts                |
 | 🎯    | Debugging & Optimization    | JTAG, GDB, Oscilloscope, Logic Analyzer    |
 
 </div>
