@@ -31,19 +31,13 @@
 
 ## 🚀 Featured Projects  
 
-<div align="center" style="display: flex; flex-wrap: nowrap; overflow-x: auto; gap: 10px; padding: 10px;">
-  
-  <a href="https://github.com/Muhammad-296/linux-system-monitor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-296&repo=linux-system-monitor&theme=tokyonight&hide_border=true" />
-  </a>
-  
-  <a href="https://github.com/Muhammad-296/Flight-Reservation-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-296&repo=Flight-Reservation-App&theme=tokyonight&hide_border=true" />
-  </a>
-
-</div>
+<p align="center">
+  🔹 <a href="https://github.com/Muhammad-296/linux-system-monitor"><b>Linux System Monitor</b></a> – Monitor system resources with a clean UI.  
+  🔹 <a href="https://github.com/Muhammad-296/Flight-Reservation-App"><b>Flight Reservation App</b></a> – Simple flight booking management system.  
+</p>
 
 ---
+
 
 ## 🌐 Let's Connect!  
 
