@@ -1,10 +1,10 @@
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6F61&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Muhammad+Ahmed!+👋;Aspiring+DevOps+Engineer;Cloud+%26+Automation+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FF6F61&center=true&vCenter=true&width=400&lines=Hi%2C+I'm+Muhammad+Ahmed!;Aspiring+DevOps+Engineer;Cloud+%26+Automation+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muhammad-296&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Muhammad-296?label=Followers&style=for-the-badge&color=ff69b4" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-296&style=flat-square&color=blueviolet" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Muhammad-296?label=Followers&style=flat-square&color=ff69b4" alt="GitHub Followers"/>
 </p>
 
 ---
@@ -15,16 +15,17 @@
 </p>
 
 <p align="center">
-  💡 I’m passionate about <b>DevOps, Cloud, and Automation</b>. Currently building projects with <b>Docker, Kubernetes, and CI/CD pipelines</b> to grow into a professional DevOps Engineer.
+  💡 Passionate about <b>DevOps, Cloud, and Automation</b>.  
+  Currently building projects with <b>Docker, Kubernetes, and CI/CD pipelines</b> to grow into a professional DevOps Engineer.
 </p>
 
 <p align="center">
   <!-- Core Tools Badges -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white"/>
 </p>
 
 ---
