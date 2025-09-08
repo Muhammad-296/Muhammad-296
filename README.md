@@ -1,22 +1,24 @@
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FF6F61&center=true&vCenter=true&width=400&lines=Hi%2C+I'm+Muhammad+Ahmed!;Electronics+%26+Embedded+Systems+Enthusiast;IoT+%26+Automation+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=FF6F61&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Muhammad+Ahmed!;Electronics+%26+Embedded+Systems+Engineer;IoT+%26+Automation+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Muhammad-296&style=flat-square&color=blueviolet" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/Muhammad-296?label=Followers&style=flat-square&color=ff69b4" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/badge/Focus-Embedded%20Systems-blue?style=flat-square"/>
 </p>
 
 ---
 
 <p align="center">
   🎓 <b>Electronics & Communication Engineering Student</b> <br>
-  🔧 <b>Embedded Systems | IoT Enthusiast</b>
+  🔧 <b>Embedded Systems Developer | IoT Explorer</b>
 </p>
 
 <p align="center">
-  💡 Passionate about <b>Embedded Systems, IoT, and Automation</b>.  
-  Currently building projects with <b>Microcontrollers, RTOS, and Communication Protocols</b> to grow into a professional Embedded Engineer.
+  💡 Passionate about <b>Microcontrollers, IoT, and Embedded Linux</b>.  
+  Currently working on <b>RTOS projects, IoT applications, and low-level hardware drivers</b>.  
+  My goal: <b>Design reliable, scalable, and smart embedded systems.</b>
 </p>
 
 <p align="center">
@@ -27,11 +29,12 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white"/>
   <img src="https://img.shields.io/badge/RTOS-FF6F61?style=flat-square&logo=freebsd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IoT-32CD32?style=flat-square&logo=internet-of-things&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 Projects  
+## 🚀 Featured Projects  
 
 <div align="center">
 
@@ -48,13 +51,25 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Muhammad-296/IoT-Sensor-Network">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-296&repo=IoT-Sensor-Network&theme=tokyonight&hide_border=true&card_width=300" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Muhammad-296/Embedded-Linux-Drivers">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-296&repo=Embedded-Linux-Drivers&theme=tokyonight&hide_border=true&card_width=300" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 </div>
 
 ---
 
-## 🌐 Let's Connect!  
+## 🌐 Connect With Me  
 
 <div align="center">
 
@@ -71,25 +86,25 @@
 
 <div align="center">
 
-| Status | Category                  | Tools / Skills                                      |
-|:------:|:-------------------------:|:---------------------------------------------------:|
-| ✅     | Programming Fundamentals  | C, C++                                              |
-| ✅     | Microcontrollers          | ARM Cortex, STM32, Arduino, ESP32                   |
-| 🚀     | Embedded OS & RTOS        | FreeRTOS, Zephyr, Real-Time Scheduling              |
-| 🚀     | Communication Protocols   | UART, I2C, SPI, CAN, MQTT                           |
-| 🚀     | IoT & Connectivity        | WiFi, Bluetooth, LoRa, MQTT, HTTP/REST              |
-| 🎯     | Embedded Linux            | Yocto, Device Drivers, Buildroot                    |
-| 🎯     | Hardware & PCB Design     | KiCad, Proteus, Multisim                            |
-| 🎯     | Debugging & Optimization  | JTAG, GDB, Logic Analyzer, Oscilloscope             |
+| Stage | Area                        | Tools / Skills                             |
+|:-----:|:---------------------------:|:------------------------------------------:|
+| ✅    | Core Programming            | C, C++, Embedded C                         |
+| ✅    | Microcontrollers            | STM32, Arduino, ESP32, ARM Cortex-M        |
+| 🚀    | RTOS & Scheduling           | FreeRTOS, Zephyr, Task Management          |
+| 🚀    | Communication Protocols     | UART, I2C, SPI, CAN, MQTT                  |
+| 🚀    | IoT & Cloud Integration     | MQTT, REST APIs, ESP-IDF, Blynk, ThingsBoard |
+| 🎯    | Embedded Linux              | Yocto, Buildroot, Device Drivers           |
+| 🎯    | Hardware Design             | KiCad, Proteus, PCB Layouts                |
+| 🎯    | Debugging & Optimization    | JTAG, GDB, Oscilloscope, Logic Analyzer    |
 
 </div>
 
 ---
 
-## 🛠️ Tech Skills  
+## 🛠️ Tech Toolbox  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,arduino,raspberrypi&theme=light&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,arduino,raspberrypi,git,vscode&theme=light&perline=8" />
 </p>
 
 ---
@@ -98,6 +113,6 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=⚡+I+debug+hardware+faster+than+my+laptop+boots.;🤖+I+make+microcontrollers+do+macro+things.;📡+UART%2C+SPI%2C+I2C+are+my+favorite+languages.;🔌+I+connect+the+physical+world+to+the+digital+one.;💡+My+coffee+breaks+are+powered+by+oscilloscopes." alt="Fun Facts Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=⚡+I+debug+hardware+faster+than+my+laptop+boots.;🤖+I+turn+8-bit+microcontrollers+into+problem-solvers.;📡+UART%2C+SPI%2C+I2C+are+my+daily+conversations.;🔌+I+bridge+the+physical+world+with+the+digital.;☕+Coffee+is+my+favorite+real-time+scheduler." alt="Fun Facts Typing SVG" />
 
 </p>
