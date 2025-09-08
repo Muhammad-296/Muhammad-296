@@ -44,6 +44,25 @@
 
 ---
 
+
+## 🚀 Featured Projects  
+
+<div align="center">
+
+<a href="https://github.com/Muhammad-296/linux-system-monitor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-296&repo=linux-system-monitor&theme=tokyonight&hide_border=true" />
+</a>  
+<b>Linux System Monitor</b> – A terminal-based system resource monitor built with C and Linux syscalls.  
+
+<a href="https://github.com/Muhammad-296/Flight-Reservation-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-296&repo=Flight-Reservation-App&theme=tokyonight&hide_border=true" />
+</a>  
+<b>Flight Reservation App</b> – A console-based airline booking system with seat management and ticketing.  
+
+</div>
+
+---
+
 ## 🌱 Learning Roadmap  
 
 <div align="center">
