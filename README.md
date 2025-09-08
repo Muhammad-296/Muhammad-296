@@ -4,10 +4,6 @@
   </a>
 </h1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FF6F61,50:36BCF7,100:32CD32&section=header&text=&fontSize=0&animation=twinkling" />
-</p>
-
 ---
 
 <p align="center">
@@ -20,41 +16,6 @@
   🚀 Currently building <b>RTOS projects, IoT applications, and hardware drivers</b>.  
   🎯 Goal: <b>Design reliable, smart, and connected embedded systems.</b>
 </p>
-
----
-
-## 🚀 Featured Projects  
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Muhammad-296/Smart-Home-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-296&repo=Smart-Home-System&theme=tokyonight&hide_border=true&card_width=300" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Muhammad-296/Embedded-RTOS-Project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-296&repo=Embedded-RTOS-Project&theme=tokyonight&hide_border=true&card_width=300" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Muhammad-296/IoT-Sensor-Network">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-296&repo=IoT-Sensor-Network&theme=tokyonight&hide_border=true&card_width=300" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Muhammad-296/Embedded-Linux-Drivers">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-296&repo=Embedded-Linux-Drivers&theme=tokyonight&hide_border=true&card_width=300" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 ---
 
@@ -104,8 +65,4 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=⚡+I+debug+hardware+faster+than+my+laptop+boots.;🤖+I+turn+8-bit+microcontrollers+into+problem-solvers.;📡+UART%2C+SPI%2C+I2C+are+my+daily+conversations.;🔌+I+bridge+the+physical+world+with+the+digital.;☕+Coffee+is+my+favorite+real-time+scheduler." alt="Fun Facts Typing SVG" />
 </p>
 
----
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FF6F61,50:36BCF7,100:32CD32&section=footer&text=&fontSize=0&animation=twinkling" />
-</p>
