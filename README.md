@@ -31,30 +31,32 @@
 
 ## 🚀 Featured Projects  
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
 
-<table style="border: none;">
-  <tr>
-    <td align="center" width="50%" style="border: none;">
-      <a href="https://github.com/Muhammad-296/linux-system-monitor">
-        <img src="https://img.shields.io/badge/Linux%20System%20Monitor-2E8B57?style=for-the-badge&logo=linux&logoColor=white" />
-      </a>
-      <br/>
-      <sub><i>Monitor system resources with a clean UI</i></sub>
-    </td>
-    <td align="center" width="50%" style="border: none;">
-      <a href="https://github.com/Muhammad-296/Flight-Reservation-App">
-        <img src="https://img.shields.io/badge/Flight%20Reservation%20App-1E90FF?style=for-the-badge&logo=airplane&logoColor=white" />
-      </a>
-      <br/>
-      <sub><i>Simple flight booking management system</i></sub>
-    </td>
-  </tr>
-</table>
+  <!-- Linux System Monitor -->
+  <div style="width: 250px; text-align: center;">
+    <a href="https://github.com/Muhammad-296/linux-system-monitor" style="text-decoration: none;">
+      <div style="background-color:#2E8B57; color:white; padding:10px; border-radius:8px; font-weight:bold;">
+        🐧 Linux System Monitor
+      </div>
+    </a>
+    <p><i>Monitor system resources with a clean UI</i></p>
+  </div>
+
+  <!-- Flight Reservation App -->
+  <div style="width: 250px; text-align: center;">
+    <a href="https://github.com/Muhammad-296/Flight-Reservation-App" style="text-decoration: none;">
+      <div style="background-color:#1E90FF; color:white; padding:10px; border-radius:8px; font-weight:bold;">
+        ✈️ Flight Reservation App
+      </div>
+    </a>
+    <p><i>Simple flight booking management system</i></p>
+  </div>
 
 </div>
 
 ---
+
 
 
 
