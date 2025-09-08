@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muhammad-Ahmed-se&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Muhammad-Ahmed-se?label=Followers&style=for-the-badge&color=ff69b4" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-296&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Muhammad-296?label=Followers&style=for-the-badge&color=ff69b4" alt="GitHub Followers"/>
 </p>
 
 ---
@@ -33,14 +33,13 @@
 
 <div align="center">
 
-[![LinkedIn](https://readmecodegen.vercel.app/api/social-icon?name=linkedin&animation=pulse&size=40&color=0077B5)](https://www.linkedin.com/in/muhammad-abdulhamid/)
-[![Instagram](https://readmecodegen.vercel.app/api/social-icon?name=instagram&animation=glow&size=40&color=E4405F)](https://instagram.com/muhammad.ahmed.abdullhamid.29)
-[![WhatsApp](https://readmecodegen.vercel.app/api/social-icon?name=whatsapp&animation=shake&size=40&color=25D366)](https://wa.me/201274783955)
-[![Gmail](https://readmecodegen.vercel.app/api/social-icon?name=gmail&animation=bounce&size=40&color=D14836)](mailto:muhammad.ahmed.al.ajami.se@gmail.com)
+[![LinkedIn](https://readmecodegen.vercel.app/api/social-icon?name=linkedin&animation=pulse&size=40&color=0077B5)](https://www.linkedin.com/in/muhammad-abdulhamid/)  
+[![Instagram](https://readmecodegen.vercel.app/api/social-icon?name=instagram&animation=glow&size=40&color=E4405F)](https://instagram.com/muhammad.ahmed.abdullhamid.29)  
+[![WhatsApp](https://readmecodegen.vercel.app/api/social-icon?name=whatsapp&animation=shake&size=40&color=25D366)](https://wa.me/201274783955)  
+[![Gmail](https://readmecodegen.vercel.app/api/social-icon?name=gmail&animation=bounce&size=40&color=D14836)](mailto:muhammad.ahmed.al.ajami.se@gmail.com)  
 [![Spotify](https://readmecodegen.vercel.app/api/social-icon?name=spotify&animation=glow&size=40&color=1DB954)](https://open.spotify.com/user/31rnvw4fq3juyp6p3uytu7y2ffbe)
 
 </div>
-
 
 ---
 
@@ -74,9 +73,9 @@
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ahmed-se&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&line_height=24&include_all_commits=true&cache_seconds=7200&custom_title=🔥+My+GitHub+Stats" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Ahmed-se&theme=tokyonight&hide_border=true&fire=FF6F61&ring=FFD700&currStreakLabel=FFFFFF" height="160" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ahmed-se&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-296&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&line_height=24&include_all_commits=true&cache_seconds=7200&custom_title=🔥+My+GitHub+Stats" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-296&theme=tokyonight&hide_border=true&fire=FF6F61&ring=FFD700&currStreakLabel=FFFFFF" height="160" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-296&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages"/>
 </p>
 
 ---
@@ -86,4 +85,3 @@
 💡 *I can debug code faster than I can decide what to eat for lunch!* 🍕💻
 
 ---
-
