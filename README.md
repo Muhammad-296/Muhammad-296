@@ -31,32 +31,31 @@
 
 ## 🚀 Featured Projects  
 
-<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
   <!-- Linux System Monitor -->
-  <div style="width: 250px; text-align: center;">
-    <a href="https://github.com/Muhammad-296/linux-system-monitor" style="text-decoration: none;">
-      <div style="background-color:#2E8B57; color:white; padding:10px; border-radius:8px; font-weight:bold;">
-        🐧 Linux System Monitor
-      </div>
+  <div style="width: 260px; background: #2E8B57; border-radius: 12px; padding: 15px; color: white; box-shadow: 0 4px 8px rgba(0,0,0,0.2); text-align: center;">
+    <a href="https://github.com/Muhammad-296/linux-system-monitor" style="text-decoration: none; color: white; font-size: 16px; font-weight: bold;">
+      🐧 Linux System Monitor
     </a>
-    <p><i>Monitor system resources with a clean UI</i></p>
+    <p style="font-size: 13px; margin-top: 10px; font-style: italic;">
+      Monitor system resources with a clean UI
+    </p>
   </div>
 
   <!-- Flight Reservation App -->
-  <div style="width: 250px; text-align: center;">
-    <a href="https://github.com/Muhammad-296/Flight-Reservation-App" style="text-decoration: none;">
-      <div style="background-color:#1E90FF; color:white; padding:10px; border-radius:8px; font-weight:bold;">
-        ✈️ Flight Reservation App
-      </div>
+  <div style="width: 260px; background: #1E90FF; border-radius: 12px; padding: 15px; color: white; box-shadow: 0 4px 8px rgba(0,0,0,0.2); text-align: center;">
+    <a href="https://github.com/Muhammad-296/Flight-Reservation-App" style="text-decoration: none; color: white; font-size: 16px; font-weight: bold;">
+      ✈️ Flight Reservation App
     </a>
-    <p><i>Simple flight booking management system</i></p>
+    <p style="font-size: 13px; margin-top: 10px; font-style: italic;">
+      Simple flight booking management system
+    </p>
   </div>
 
 </div>
 
 ---
-
 
 
 
