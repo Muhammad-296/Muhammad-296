@@ -85,11 +85,24 @@
 </p>
 
 
+---
+
+## 🐍 Contribution Graph
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
+</p>
 
 ---
 
-## 🎉 Fun Fact  
+## 🎉 Fun Facts About Me  
 
-💡 *I can debug code faster than I can decide what to eat for lunch!* 🍕💻
+<p align="center">
 
----
+🌍 I deploy to the cloud like others send a text. ☁️📡  
+🐳 My spirit animal is a Docker whale. 🐋  
+⌛ I write CI/CD pipelines faster than I name variables. 🔄🤯  
+☕ Coffee + Bash scripts = Infinite energy loop. 🖥️☕  
+⚡ I break things just to automate fixing them. 🛠️🤖  
+
+</p>
+
