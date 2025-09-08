@@ -45,34 +45,33 @@
 
 ## 🚀 Featured Projects  
 
-<div align="center" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 15px;">
 
   <!-- Linux System Monitor -->
-  <div style="width: 280px; background: linear-gradient(135deg, #2E8B57, #3CB371); border-radius: 14px; padding: 20px; color: white; box-shadow: 0 6px 14px rgba(0,0,0,0.25); text-align: center;">
-    <div style="font-size: 40px; margin-bottom: 10px;">🐧</div>
-    <a href="https://github.com/Muhammad-296/linux-system-monitor" style="text-decoration: none; color: white; font-size: 18px; font-weight: bold;">
+  <div style="width: 220px; background: #1a1b27; border: 1px solid #7aa2f7; border-radius: 12px; padding: 15px; color: #c0caf5; box-shadow: 0 4px 10px rgba(0,0,0,0.3); text-align: center;">
+    <div style="font-size: 28px; margin-bottom: 6px;">🐧</div>
+    <a href="https://github.com/Muhammad-296/linux-system-monitor" style="text-decoration: none; color: #7aa2f7; font-size: 16px; font-weight: bold;">
       Linux System Monitor
     </a>
-    <p style="font-size: 14px; margin-top: 10px; font-style: italic; opacity: 0.9;">
-      Monitor system resources with a clean UI
+    <p style="font-size: 12px; margin-top: 6px; color: #9aa5ce;">
+      Monitor system resources
     </p>
   </div>
 
   <!-- Flight Reservation App -->
-  <div style="width: 280px; background: linear-gradient(135deg, #1E90FF, #00BFFF); border-radius: 14px; padding: 20px; color: white; box-shadow: 0 6px 14px rgba(0,0,0,0.25); text-align: center;">
-    <div style="font-size: 40px; margin-bottom: 10px;">✈️</div>
-    <a href="https://github.com/Muhammad-296/Flight-Reservation-App" style="text-decoration: none; color: white; font-size: 18px; font-weight: bold;">
+  <div style="width: 220px; background: #1a1b27; border: 1px solid #bb9af7; border-radius: 12px; padding: 15px; color: #c0caf5; box-shadow: 0 4px 10px rgba(0,0,0,0.3); text-align: center;">
+    <div style="font-size: 28px; margin-bottom: 6px;">✈️</div>
+    <a href="https://github.com/Muhammad-296/Flight-Reservation-App" style="text-decoration: none; color: #bb9af7; font-size: 16px; font-weight: bold;">
       Flight Reservation App
     </a>
-    <p style="font-size: 14px; margin-top: 10px; font-style: italic; opacity: 0.9;">
-      Simple flight booking management system
+    <p style="font-size: 12px; margin-top: 6px; color: #9aa5ce;">
+      Flight booking system
     </p>
   </div>
 
 </div>
 
 ---
-
 
 
 ## 🌱 Learning Roadmap  
