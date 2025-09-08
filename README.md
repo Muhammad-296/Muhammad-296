@@ -36,7 +36,7 @@
 [![LinkedIn](https://readmecodegen.vercel.app/api/social-icon?name=linkedin&animation=pulse&size=40&color=0077B5)](https://www.linkedin.com/in/muhammad-abdulhamid/)
 [![Instagram](https://readmecodegen.vercel.app/api/social-icon?name=instagram&animation=glow&size=40&color=E4405F)](https://instagram.com/muhammad.ahmed.abdullhamid.29)
 [![WhatsApp](https://readmecodegen.vercel.app/api/social-icon?name=whatsapp&animation=shake&size=40&color=25D366)](https://wa.me/201274783955)
-[![Gmail](https://readmecodegen.vercel.app/api/social-icon?name=gmail&animation=bounce&size=40&color=D14836)](mailto:muhammad.ahmed.al.ajami.se@gmail.com)
+[![Gmail](https://readmecodegen.vercel.app/api/social-icon?name=gmail&animation=bounce&size=40&color=D14836)](mailto:muhammad.al.ajami.se@gmail.com)
 [![Spotify](https://readmecodegen.vercel.app/api/social-icon?name=spotify&animation=glow&size=40&color=1DB954)](https://open.spotify.com/user/31rnvw4fq3juyp6p3uytu7y2ffbe)
 
 </div>
