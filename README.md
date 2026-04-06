@@ -1,102 +1,199 @@
-<h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C896&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Muhammad+Ahmed!;Embedded+Systems+Engineer;Robotics+%26+Hardware+Enthusiast" alt="Typing SVG" />
-</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:185FA5&height=200&section=header&text=Muhammad%20Ahmed&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Embedded%20Systems%20Engineer%20%7C%20Robotics%20Enthusiast&descAlignY=58&descSize=16" />
+
+</div>
+
+<br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muhammad-296&style=flat-square&color=blueviolet" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Muhammad-296?label=Followers&style=flat-square&color=ff69b4" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-296&style=flat-square&color=1D9E75&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/Muhammad-296?label=Followers&style=flat-square&color=185FA5" />
+  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collaborations-1D9E75?style=flat-square" />
 </p>
 
 ---
 
-<p align="center">
-  🎓 <b>Electronics & Communication Engineering Student</b> <br>
-  🤖 <b>Aspiring Embedded Systems Engineer | Robotics Enthusiast</b>
-</p>
+## 👋 About Me
 
-<p align="center">
-  💡 Passionate about <b>Embedded Systems, Robotics, and Hardware Design</b>.  
-  Currently building projects with <b>ROS, PCB Design, and Microcontrollers</b> to grow into a professional Embedded Systems Engineer.
-</p>
+I'm an **Electronics & Communication Engineering** student passionate about building things that live at the boundary of hardware and software. My focus is on **Embedded Systems**, **Robotics**, and **PCB Design** — driven by the belief that great robots start with great firmware.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white"/>
-</p>
+Currently working toward becoming a professional **Embedded Systems Engineer**, with hands-on experience in real-time firmware, ROS 2 robotics stacks, and multi-layer PCB design.
+
+```c
+while (alive) {
+    eat();
+    sleep();
+    code_embedded_systems();   // repeat forever
+    design_pcbs();
+    debug_with_oscilloscope(); // patience required
+}
+```
 
 ---
 
-## 🚀 Projects  
+## 🔧 Currently Working On
+
+| Project | Stack | Status |
+|:--------|:------|:------:|
+| 🤖 ROS 2 Autonomous Mobile Robot | C++ · ROS 2 · Gazebo · LiDAR · STM32 | 🔄 Active |
+| 🛠️ Custom Motor Driver PCB | KiCad · STM32G0 · DRV8833 · CAN | 🔄 Active |
+| 🖥️ Linux System Monitor | C · POSIX · ncurses | ✅ Complete |
+| ✈️ Flight Reservation App | C++ · OOP · File I/O | ✅ Complete |
+
+---
+
+## 🚀 Featured Projects
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Muhammad-296/linux-system-monitor">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-296&repo=linux-system-monitor&theme=tokyonight&hide_border=true&card_width=300" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Muhammad-296/Flight-Reservation-App">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-296&repo=Flight-Reservation-App&theme=tokyonight&hide_border=true&card_width=300" />
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/Muhammad-296/linux-system-monitor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-296&repo=linux-system-monitor&theme=tokyonight&hide_border=true&border_radius=10" />
+</a>
+<a href="https://github.com/Muhammad-296/Flight-Reservation-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-296&repo=Flight-Reservation-App&theme=tokyonight&hide_border=true&border_radius=10" />
+</a>
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/Muhammad-296?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-%E2%86%92-1D9E75?style=flat-square" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-296&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-296&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-296&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" width="49%" />
 
 </div>
 
 ---
 
-## 🌐 Let's Connect!  
+## 🗺️ Learning Roadmap
 
 <div align="center">
 
-[![LinkedIn](https://readmecodegen.vercel.app/api/social-icon?name=linkedin&animation=pulse&size=40&color=0077B5)](https://www.linkedin.com/in/muhammad-abdulhamid/)
-[![Instagram](https://readmecodegen.vercel.app/api/social-icon?name=instagram&animation=glow&size=40&color=E4405F)](https://instagram.com/muhammad.ahmed.abdullhamid.29)
-[![WhatsApp](https://readmecodegen.vercel.app/api/social-icon?name=whatsapp&animation=shake&size=40&color=25D366)](https://wa.me/201274783955)
-[![Gmail](https://readmecodegen.vercel.app/api/social-icon?name=gmail&animation=bounce&size=40&color=D14836)](mailto:muhammad.al.ajami.se@gmail.com)
-[![Spotify](https://readmecodegen.vercel.app/api/social-icon?name=spotify&animation=glow&size=40&color=1DB954)](https://open.spotify.com/user/31rnvw4fq3juyp6p3uytu7y2ffbe)
+| Status | Category | Tools & Skills |
+|:------:|:---------|:--------------|
+| ✅ Done | **Programming & Scripting** | C, C++, Python, Embedded C |
+| ✅ Done | **Version Control** | Git, GitHub |
+| ✅ Done | **Microcontrollers & SBCs** | STM32, Arduino, Raspberry Pi, ESP32 |
+| ✅ Done | **Communication Protocols** | UART, SPI, I2C, CAN, MQTT |
+| ✅ Done | **Sensors & Actuation** | IMUs, LiDAR, Servo, Motor Control, PWM |
+| 🔄 Active | **Robotics & ROS 2** | ROS 2, Gazebo, URDF, MoveIt, Nav2 |
+| 🔄 Active | **PCB Design** | KiCad (multi-layer), Altium Designer |
+| 🔄 Active | **RTOS & Firmware** | FreeRTOS, Bare-Metal, HAL Drivers |
+| 📋 Next | **Advanced Embedded** | MISRA C, AUTOSAR, Bootloaders, DFU |
+| 📋 Next | **Computer Vision** | OpenCV, ROS 2 vision pipelines |
 
 </div>
 
 ---
 
-## 🌱 Learning Roadmap  
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| Status | Category                    | Tools / Skills                                  |
-|:------:|:---------------------------:|:-----------------------------------------------:|
-| ✅     | Programming & Scripting     | 🖥️ C/C++, Python, Embedded C                   |
-| ✅     | Version Control             | 🔧 Git, GitHub                                  |
-| ✅     | Microcontrollers & SBCs     | 🔬 STM32, Arduino, Raspberry Pi, ESP32          |
-| ✅     | Robotics & ROS              | 🤖 ROS 2, Gazebo, URDF, MoveIt                 |
-| ✅     | PCB Design                  | 🛠️ KiCad, Altium Designer, Eagle               |
-| ✅     | Communication Protocols     | 📡 UART, SPI, I2C, CAN, MQTT                   |
-| ✅     | RTOS & Firmware             | ⚙️ FreeRTOS, Bare-Metal, HAL Drivers           |
-| ✅     | Sensors & Actuation         | 📊 IMUs, LiDAR, Servo, Motor Control, PWM      |
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,bash&theme=dark" />
+
+**Platforms & Tools**
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,cmake,matlab&theme=dark" />
+
+**Embedded & Robotics**
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,ros&theme=dark" />
+
+</div>
+
+<div align="center">
+
+| Category | Tools |
+|:---------|:------|
+| **Microcontrollers** | STM32 (F4/G0/H7), Arduino, ESP32, ATmega |
+| **Robotics** | ROS 2 Humble, Gazebo, URDF, MoveIt 2, Nav2 |
+| **PCB Design** | KiCad, Altium Designer, Eagle |
+| **Protocols** | UART, SPI, I2C, CAN, USB, MQTT, Modbus |
+| **RTOS** | FreeRTOS, Bare-Metal, HAL / LL Drivers |
+| **Simulation** | Gazebo, MATLAB/Simulink |
+| **Dev Tools** | Git, CMake, OpenOCD, GDB, Logic Analyzer, Oscilloscope |
 
 </div>
 
 ---
 
-## 🛠️ Tech Skills  
+## 🎯 Goals for 2025–2026
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,git,arduino,raspberrypi,ros,matlab,cmake,vscode,github&theme=light&perline=8" />
-</p>
+- 🔲 Complete a full autonomous robot (SLAM + navigation + manipulation)
+- 🔲 Tape out a production-ready motor controller PCB
+- 🔲 Contribute to an open-source ROS package
+- 🔲 Land an embedded systems internship
+- 🔲 Build a portfolio of 5+ well-documented hardware projects
+- ✅ Learn ROS 2 from scratch
+- ✅ Design and assemble first 4-layer PCB
 
 ---
 
-## 🎉 Fun Facts About Me  
+## ⚡ Fun Facts
 
-<p align="center">
+```
+🤖  I talk to robots more than people. They respond deterministically.
+🔌  My spirit animal is a soldering iron — always heated, occasionally burns things.
+📡  I debug hardware with an oscilloscope and an unreasonable amount of patience.
+☕  Coffee + Embedded C = firmware that actually works on the first flash.
+💭  I design PCBs in my dreams and fix shorts in real life.
+🔋  My idea of "low power" is a sleep mode that wakes on interrupt, not coffee.
+```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00C896&center=true&vCenter=true&width=650&lines=🤖+I+talk+to+robots+more+than+people.;🔌+My+spirit+animal+is+a+soldering+iron.;📡+I+debug+hardware+with+an+oscilloscope+and+patience.;☕+Coffee+%2B+Embedded+C+%3D+Firmware+that+actually+works.;⚡+I+design+PCBs+in+my+dreams+and+fix+shorts+in+real+life." alt="Fun Facts Typing SVG" />
+---
 
-</p>
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Abdulhamid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-abdulhamid/)
+[![Gmail](https://img.shields.io/badge/Gmail-muhammad.al.ajami.se%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammad.al.ajami.se@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201274783955)
+[![Instagram](https://img.shields.io/badge/Instagram-muhammad.ahmed.abdullhamid.29-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muhammad.ahmed.abdullhamid.29)
+[![Spotify](https://img.shields.io/badge/Spotify-What%20I'm%20Building%20To-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31rnvw4fq3juyp6p3uytu7y2ffbe)
+
+</div>
+
+---
+
+## 🤝 Open To
+
+- 🔬 **Research collaborations** in robotics and embedded systems
+- 💼 **Internship opportunities** in embedded, firmware, or robotics engineering
+- 🛠️ **Open source contributions** to ROS, embedded toolchains, or hardware projects
+- 🤝 **Project partnerships** — especially autonomous systems and PCB design
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-296&theme=tokyo-night&hide_border=true&border_radius=10&area=true" width="95%" />
+
+</div>
+
+---
+
+<div align="center">
+
+*"The best embedded systems are the ones that work silently — no crashes, no exceptions, just clean execution."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:185FA5,100:1D9E75&height=100&section=footer" />
+
+</div>
