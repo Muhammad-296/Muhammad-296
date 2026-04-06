@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FF6F61&center=true&vCenter=true&width=400&lines=Hi%2C+I'm+Muhammad+Ahmed!;Aspiring+DevOps+Engineer;Cloud+%26+Automation+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C896&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Muhammad+Ahmed!;Embedded+Systems+Engineer;Robotics+%26+Hardware+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -11,21 +11,20 @@
 
 <p align="center">
   🎓 <b>Electronics & Communication Engineering Student</b> <br>
-  🚀 <b>Aspiring DevOps Engineer | Cloud Enthusiast</b>
+  🤖 <b>Aspiring Embedded Systems Engineer | Robotics Enthusiast</b>
 </p>
 
 <p align="center">
-  💡 Passionate about <b>DevOps, Cloud, and Automation</b>.  
-  Currently building projects with <b>Docker, Kubernetes, and CI/CD pipelines</b> to grow into a professional DevOps Engineer.
+  💡 Passionate about <b>Embedded Systems, Robotics, and Hardware Design</b>.  
+  Currently building projects with <b>ROS, PCB Design, and Microcontrollers</b> to grow into a professional Embedded Systems Engineer.
 </p>
 
 <p align="center">
-  <!-- Core Tools Badges -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white"/>
 </p>
 
 ---
@@ -53,8 +52,6 @@
 
 ---
 
-
-
 ## 🌐 Let's Connect!  
 
 <div align="center">
@@ -73,16 +70,16 @@
 
 <div align="center">
 
-| Status | Category                   | Tools / Skills                       |
-|:------:|:--------------------------:|:------------------------------------:|
-| ✅     | Linux & Scripting          | 🐧 Linux, 🖥️ Shell Scripting          |
-| ✅     | Version Control            | 🔧 Git, GitHub                        |
-| 🚀     | Containers & Orchestration | 🐳 Docker, ☸️ Kubernetes              |
-| 🚀     | Infrastructure as Code     | 🛠️ Terraform, ⚙️ Ansible              |
-| 🚀     | Cloud Platforms            | ☁️ AWS, Azure, Google Cloud           |
-| 🚀     | CI/CD Pipelines            | 🔄 GitHub Actions, Jenkins            |
-| 🎯     | Monitoring & Logging       | 📊 Prometheus, 📉 Grafana, ELK Stack  |
-| 🎯     | Security                   | 🔐 DevSecOps, Cloud Security          |
+| Status | Category                    | Tools / Skills                                  |
+|:------:|:---------------------------:|:-----------------------------------------------:|
+| ✅     | Programming & Scripting     | 🖥️ C/C++, Python, Embedded C                   |
+| ✅     | Version Control             | 🔧 Git, GitHub                                  |
+| 🚀     | Microcontrollers & SBCs     | 🔬 STM32, Arduino, Raspberry Pi, ESP32          |
+| 🚀     | Robotics & ROS              | 🤖 ROS 2, Gazebo, URDF, MoveIt                 |
+| 🚀     | PCB Design                  | 🛠️ KiCad, Altium Designer, Eagle               |
+| 🚀     | Communication Protocols     | 📡 UART, SPI, I2C, CAN, MQTT                   |
+| 🎯     | RTOS & Firmware             | ⚙️ FreeRTOS, Bare-Metal, HAL Drivers           |
+| 🎯     | Sensors & Actuation         | 📊 IMUs, LiDAR, Servo, Motor Control, PWM      |
 
 </div>
 
@@ -91,7 +88,7 @@
 ## 🛠️ Tech Skills  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,python,c,html,css,js,docker,kubernetes,terraform,ansible,jenkins,aws,azure,gcp,prometheus,grafana&theme=light&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,git,arduino,raspberrypi,ros,matlab,cmake,vscode,github&theme=light&perline=8" />
 </p>
 
 ---
@@ -100,6 +97,6 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🌍+I+deploy+to+the+cloud+like+others+send+a+text.;🐳+My+spirit+animal+is+a+Docker+whale.;⌛+I+write+CI%2FCD+pipelines+faster+than+I+name+variables.;☕+Coffee+%2B+Bash+scripts+%3D+Infinite+energy+loop.;⚡+I+break+things+just+to+automate+fixing+them." alt="Fun Facts Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00C896&center=true&vCenter=true&width=650&lines=🤖+I+talk+to+robots+more+than+people.;🔌+My+spirit+animal+is+a+soldering+iron.;📡+I+debug+hardware+with+an+oscilloscope+and+patience.;☕+Coffee+%2B+Embedded+C+%3D+Firmware+that+actually+works.;⚡+I+design+PCBs+in+my+dreams+and+fix+shorts+in+real+life." alt="Fun Facts Typing SVG" />
 
 </p>
