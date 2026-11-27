@@ -1,4 +1,11 @@
-![Muhammad Ahmed · ML Engineer. Sensor modeling, model evaluation, and edge inference. GitHub member since 2025 with 9 public repositories. Among 5 selected projects, 3 use Python, 3 use C++, 1 uses C, and 1 uses Assembly. Toolkit: random forests, ESP32, Arduino, KiCad, ROS 2, Raspberry Pi, and PySide6.](assets/profile-overview.webp)
+![Muhammad Ahmed · ML Engineer. Sensor modeling, model evaluation, and edge inference. Nine public repositories, five selected projects, GitHub member since 2025. Machine learning: Python, scikit-learn. Embedded systems: STM32, ESP32, Arduino, KiCad. Robotics: ROS 2, Raspberry Pi. Topics: activity recognition, edge ML, embedded firmware, and robotics.](assets/profile-toolkit.webp)
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-graphs.webp">
+  <img src="assets/profile-graphs.gif" alt="Among five selected projects, Python and C++ appear in three each, and C and Assembly in one each. Three projects focus on robotics, one on firmware, and one on circuit design.">
+</picture>
+
+<!-- Technology icons from https://simpleicons.org/. -->
 
 [LinkedIn](https://www.linkedin.com/in/muhammad-abdulhamid/) · [Email](mailto:muhammad.al.ajami.se@gmail.com) · [All repositories](https://github.com/Muhammad-296?tab=repositories)
 
