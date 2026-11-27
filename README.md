@@ -1,11 +1,11 @@
-![Muhammad Ahmed · ML Engineer. Sensor modeling, model evaluation, and edge inference. Eight public repositories, five selected projects, GitHub member since 2025. Machine learning: Python, scikit-learn. Embedded systems: STM32, ESP32, Arduino, KiCad. Robotics: ROS 2, Raspberry Pi. Mechanical design: SOLIDWORKS. Topics: activity recognition, edge ML, embedded firmware, robotics, and mechanical CAD.](assets/engineering-toolkit.webp)
+![Muhammad Ahmed · ML Engineer. Sensor modeling, model evaluation, and edge inference. Eight public repositories, five selected projects, GitHub member since 2025. Machine learning: Python, scikit-learn. Embedded systems: STM32, ESP32, Arduino, KiCad. Robotics: ROS 2, Raspberry Pi. Mechanical design: SOLIDWORKS. Topics: activity recognition, edge ML, embedded firmware, robotics, and mechanical CAD.](assets/engineering-toolkit-sw.webp)
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-graphs.webp">
   <img src="assets/profile-graphs.gif" alt="Among five selected projects, Python and C++ appear in three each, and C and Assembly in one each. Three projects focus on robotics, one on firmware, and one on circuit design.">
 </picture>
 
-<!-- Technology icons from https://simpleicons.org/. SOLIDWORKS wordmark from https://commons.wikimedia.org/wiki/File:SOLIDWORKS_Logo.svg. -->
+<!-- Technology icons from https://simpleicons.org/. -->
 
 [LinkedIn](https://www.linkedin.com/in/muhammad-abdulhamid/) · [Email](mailto:muhammad.al.ajami.se@gmail.com) · [All repositories](https://github.com/Muhammad-296?tab=repositories)
 
