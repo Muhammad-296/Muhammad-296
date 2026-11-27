@@ -1,6 +1,4 @@
-# Muhammad Ahmed
-
-**ML Engineer**
+![Muhammad Ahmed · ML Engineer. Edge ML, sensor modeling, and inference on edge devices. GitHub member since 2025 with nine public repositories.](assets/profile-hero.webp)
 
 I study Electronics and Communication Engineering and build machine learning systems for sensor data. My focus is activity classification, model evaluation, and running inference on edge devices. I also work on the firmware and hardware that collect the data.
 
