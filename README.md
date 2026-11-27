@@ -15,7 +15,7 @@ I study Electronics and Communication Engineering. I build microcontroller firmw
 | [Gesture-Controlled Car](https://github.com/Muhammad-296/Gesture-controlled-Car) | A sensor glove sends steering and arm commands over nRF24L01 to an Arduino robot car. [RF packet format](https://github.com/Muhammad-296/Gesture-controlled-Car#-rf24-packet-protocol) |
 | [Digital Clock](https://github.com/Muhammad-296/Digital-Clock) | An ATmega32A clock and calendar in AVR assembly, with matrix keypad input and an LCD. [Build and flash guide](https://github.com/Muhammad-296/Digital-Clock#-getting-started) |
 
-**More work** · [CMOS Logic Analyzer](https://github.com/Muhammad-296/Elect_Proj) · [Linux System Monitor](https://github.com/Muhammad-296/linux-system-monitor)
+**More work** · [CMOS Logic Analyzer](https://github.com/Muhammad-296/Elect_Proj)
 
 ## Toolkit and GitHub overview
 
