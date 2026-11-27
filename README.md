@@ -1,34 +1,8 @@
-![Muhammad Ahmed · ML Engineer. Edge ML, sensor modeling, and inference on edge devices. GitHub member since 2025 with nine public repositories.](assets/profile-hero.webp)
+![Muhammad Ahmed · ML Engineer. Sensor modeling, model evaluation, and edge inference. GitHub member since 2025 with 9 public repositories. Among 5 selected projects, 3 use Python, 3 use C++, 1 uses C, and 1 uses Assembly. Toolkit: random forests, ESP32, Arduino, KiCad, ROS 2, Raspberry Pi, and PySide6.](assets/profile-overview.webp)
 
-## Profile details
+[LinkedIn](https://www.linkedin.com/in/muhammad-abdulhamid/) · [Email](mailto:muhammad.al.ajami.se@gmail.com) · [All repositories](https://github.com/Muhammad-296?tab=repositories)
 
-```text
-muhammad@github --------------------------------------------
+### Selected projects
 
-Profile
-Role ............... ML Engineer
-Education .......... Electronics & Communication Engineering
-Focus .............. Activity recognition from sensor data
-
-Machine learning
-Modeling ........... Python, sensor features, random forests
-Evaluation ......... Held-out validation, balanced accuracy
-Inference .......... Activity classification on edge devices
-
-Embedded systems & robotics
-Firmware ........... C/C++, ESP32, Arduino, AVR assembly
-Robotics ........... ROS 2, Raspberry Pi, PySide6
-Hardware ........... KiCad, sensor integration, motor control
-```
-
-[LinkedIn](https://www.linkedin.com/in/muhammad-abdulhamid/) · [Email](mailto:muhammad.al.ajami.se@gmail.com) · [GitHub repositories](https://github.com/Muhammad-296?tab=repositories)
-
-## Selected engineering projects
-
-| Project | Highlights | Documentation |
-| --- | --- | --- |
-| [Control Station](https://github.com/Muhammad-296/Control-Station) | PySide6 desktop application for ROS 2 rover telemetry and Arduino Mega underwater ROV control. | [System architecture](https://github.com/Muhammad-296/Control-Station/blob/main/docs/ARCHITECTURE.md) |
-| [Mars Rover](https://github.com/Muhammad-296/Mars-Rover) | ESP32 rover with a custom PCB and a PyQt5 interface for Wi-Fi driving and live telemetry. | [Wiring diagram](https://github.com/Muhammad-296/Mars-Rover#wiring-diagram) |
-| [Gesture-Controlled Car](https://github.com/Muhammad-296/Gesture-controlled-Car) | Arduino robot car that receives steering and arm commands from a wireless sensor glove. | [RF packet format](https://github.com/Muhammad-296/Gesture-controlled-Car#-rf24-packet-protocol) |
-| [Digital Clock](https://github.com/Muhammad-296/Digital-Clock) | ATmega32A clock and calendar in AVR assembly, with a matrix keypad and LCD. | [Build and flash guide](https://github.com/Muhammad-296/Digital-Clock#-getting-started) |
-| [CMOS Logic Analyzer](https://github.com/Muhammad-296/Elect_Proj) | Python tool for comparing NAND+NOT and NOR+NOT circuits by delay, area, and power. | [Model formulas](https://github.com/Muhammad-296/Elect_Proj#-mathematical-formulas) |
+[Control Station](https://github.com/Muhammad-296/Control-Station) · [Mars Rover](https://github.com/Muhammad-296/Mars-Rover) · [Gesture-Controlled Car](https://github.com/Muhammad-296/Gesture-controlled-Car)<br>
+[Digital Clock](https://github.com/Muhammad-296/Digital-Clock) · [CMOS Logic Analyzer](https://github.com/Muhammad-296/Elect_Proj)
