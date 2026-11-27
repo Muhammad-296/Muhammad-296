@@ -1,12 +1,27 @@
 ![Muhammad Ahmed · ML Engineer. Edge ML, sensor modeling, and inference on edge devices. GitHub member since 2025 with nine public repositories.](assets/profile-hero.webp)
 
-I study Electronics and Communication Engineering and build machine learning systems for sensor data. My focus is activity classification, model evaluation, and running inference on edge devices. I also work on the firmware and hardware that collect the data.
+## Profile details
+
+```text
+muhammad@github --------------------------------------------
+
+Profile
+Role ............... ML Engineer
+Education .......... Electronics & Communication Engineering
+Focus .............. Activity recognition from sensor data
+
+Machine learning
+Modeling ........... Python, sensor features, random forests
+Evaluation ......... Held-out validation, balanced accuracy
+Inference .......... Activity classification on edge devices
+
+Embedded systems & robotics
+Firmware ........... C/C++, ESP32, Arduino, AVR assembly
+Robotics ........... ROS 2, Raspberry Pi, PySide6
+Hardware ........... KiCad, sensor integration, motor control
+```
 
 [LinkedIn](https://www.linkedin.com/in/muhammad-abdulhamid/) · [Email](mailto:muhammad.al.ajami.se@gmail.com) · [GitHub repositories](https://github.com/Muhammad-296?tab=repositories)
-
-## Technical toolkit
-
-![Machine learning: Python, sensor features, random forests, held-out validation, balanced accuracy, and on-device activity classification. Embedded systems and robotics: C/C++, ESP32, Arduino, AVR assembly, ROS 2, Raspberry Pi, PySide6, KiCad, sensors, and motor control.](assets/profile-dashboard.png)
 
 ## Selected engineering projects
 
