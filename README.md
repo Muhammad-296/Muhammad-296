@@ -10,3 +10,5 @@
 | [Gesture-Controlled Car](https://github.com/Muhammad-296/Gesture-controlled-Car) | Arduino C++ firmware for an IMU glove and robotic car using nRF24L01 radio, servo control, and ultrasonic obstacle detection. |
 | [Mars Rover](https://github.com/Muhammad-296/Mars-Rover) | Six-wheel ESP32 rover with a custom PCB, WebSocket telemetry, and a Python desktop interface. |
 | [Digital Clock](https://github.com/Muhammad-296/Digital-Clock) | AVR assembly for an ATmega32A clock and calendar with a matrix keypad and LCD. |
+| [CMOS Logic Analyzer](https://github.com/Muhammad-296/Elect_Proj) | Python tool for comparing NAND+NOT and NOR+NOT implementations by delay, area, and power. |
+| [Linux System Monitor](https://github.com/Muhammad-296/linux-system-monitor) | Bash utility for reporting CPU load, memory, disk usage, and process activity. |
