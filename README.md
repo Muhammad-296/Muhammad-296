@@ -10,7 +10,7 @@ I study Electronics and Communication Engineering. I build microcontroller firmw
 
 | Project | What you can explore |
 | --- | --- |
-| [ROV Control Station](https://github.com/Muhammad-296/ROV-Control-Station) | A PySide6 desktop application that brings together ROS 2 rover telemetry and Arduino Mega underwater ROV control. [System architecture](https://github.com/Muhammad-296/ROV-Control-Station/blob/main/docs/ARCHITECTURE.md) |
+| [ROV Control Station](https://github.com/Muhammad-296/Control-Station) | A PySide6 desktop application that brings together ROS 2 rover telemetry and Arduino Mega underwater ROV control. [System architecture](https://github.com/Muhammad-296/Control-Station/blob/main/docs/ARCHITECTURE.md) |
 | [Mars Rover](https://github.com/Muhammad-296/Mars-Rover) | An ESP32 rover with a custom PCB and a PyQt5 interface for Wi-Fi driving and live telemetry. [Wiring diagram](https://github.com/Muhammad-296/Mars-Rover#wiring-diagram) |
 | [Gesture-Controlled Car](https://github.com/Muhammad-296/Gesture-controlled-Car) | A sensor glove sends steering and arm commands over nRF24L01 to an Arduino robot car. [RF packet format](https://github.com/Muhammad-296/Gesture-controlled-Car#-rf24-packet-protocol) |
 | [Digital Clock](https://github.com/Muhammad-296/Digital-Clock) | An ATmega32A clock and calendar in AVR assembly, with matrix keypad input and an LCD. [Build and flash guide](https://github.com/Muhammad-296/Digital-Clock#-getting-started) |
