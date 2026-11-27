@@ -1,14 +1,22 @@
-![Muhammad Ahmed, Embedded Systems and Machine Learning Engineer and Electronics and Communication Engineering student. November 2026 GitHub snapshot: 9 public repositories, 5 primary languages, joined September 2025. Among 8 repositories with a primary language, 3 are Python, 2 are HTML, and 1 each is C++, Assembly, and Shell. Toolkit: C/C++, STM32, ESP32, Arduino, KiCad, ROS 2, Raspberry Pi, PySide6, Python, sensor classification, and edge inference.](assets/profile-dashboard.png)
+# Muhammad Ahmed
 
-[Browse repositories](https://github.com/Muhammad-296?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/muhammad-abdulhamid/) · [Email](mailto:muhammad.al.ajami.se@gmail.com)
+**Embedded Systems & Machine Learning Engineer**
 
-## Selected projects
+I study Electronics and Communication Engineering. I build microcontroller firmware, integrate sensors and actuators, and develop Python tools for robot telemetry and control. My machine learning focus is getting sensor models to run on embedded devices.
 
-| Project | Engineering work |
+[LinkedIn](https://www.linkedin.com/in/muhammad-abdulhamid/) · [Email](mailto:muhammad.al.ajami.se@gmail.com) · [All repositories](https://github.com/Muhammad-296?tab=repositories)
+
+## Selected engineering projects
+
+| Project | What you can explore |
 | --- | --- |
-| [ROV Control Station](https://github.com/Muhammad-296/ROV-Control-Station) | PySide6 mission control for a ROS 2 rover and an Arduino Mega underwater ROV, with telemetry, camera feeds, and operator controls. |
-| [Gesture-Controlled Car](https://github.com/Muhammad-296/Gesture-controlled-Car) | Arduino C++ firmware for an IMU glove and robotic car using nRF24L01 radio, servo control, and ultrasonic obstacle detection. |
-| [Mars Rover](https://github.com/Muhammad-296/Mars-Rover) | Six-wheel ESP32 rover with a custom PCB, WebSocket telemetry, and a Python desktop interface. |
-| [Digital Clock](https://github.com/Muhammad-296/Digital-Clock) | AVR assembly for an ATmega32A clock and calendar with a matrix keypad and LCD. |
-| [CMOS Logic Analyzer](https://github.com/Muhammad-296/Elect_Proj) | Python tool for comparing NAND+NOT and NOR+NOT implementations by delay, area, and power. |
-| [Linux System Monitor](https://github.com/Muhammad-296/linux-system-monitor) | Bash utility for reporting CPU load, memory, disk usage, and process activity. |
+| [ROV Control Station](https://github.com/Muhammad-296/ROV-Control-Station) | A PySide6 desktop application that brings together ROS 2 rover telemetry and Arduino Mega underwater ROV control. [System architecture](https://github.com/Muhammad-296/ROV-Control-Station/blob/main/docs/ARCHITECTURE.md) |
+| [Mars Rover](https://github.com/Muhammad-296/Mars-Rover) | An ESP32 rover with a custom PCB and a PyQt5 interface for Wi-Fi driving and live telemetry. [Wiring diagram](https://github.com/Muhammad-296/Mars-Rover#wiring-diagram) |
+| [Gesture-Controlled Car](https://github.com/Muhammad-296/Gesture-controlled-Car) | A sensor glove sends steering and arm commands over nRF24L01 to an Arduino robot car. [RF packet format](https://github.com/Muhammad-296/Gesture-controlled-Car#-rf24-packet-protocol) |
+| [Digital Clock](https://github.com/Muhammad-296/Digital-Clock) | An ATmega32A clock and calendar in AVR assembly, with matrix keypad input and an LCD. [Build and flash guide](https://github.com/Muhammad-296/Digital-Clock#-getting-started) |
+
+**More work** · [CMOS Logic Analyzer](https://github.com/Muhammad-296/Elect_Proj) · [Linux System Monitor](https://github.com/Muhammad-296/linux-system-monitor)
+
+## Toolkit and GitHub overview
+
+![Firmware and hardware: C/C++, STM32, ESP32, Arduino and KiCad. Robotics: ROS 2, Raspberry Pi and PySide6. Machine learning: Python, sensor classification and edge inference. November 2026 public GitHub snapshot: nine repositories, five primary languages and joined September 2025. Of eight repositories with a primary language, three use Python, two use HTML, and one each uses C++, Assembly and Shell.](assets/profile-dashboard.png)
