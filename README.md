@@ -1,80 +1,34 @@
-<h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C896&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Muhammad+Ahmed!;Embedded+Systems+Engineer;Robotics+%26+Hardware+Enthusiast" alt="Typing SVG" />
-</h1>
+# Muhammad Ahmed
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muhammad-296&style=flat-square&color=blueviolet" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Muhammad-296?label=Followers&style=flat-square&color=ff69b4" alt="GitHub Followers"/>
-</p>
+**Embedded Systems & Machine Learning Engineer**
 
----
+I study Electronics and Communication Engineering and build systems that connect sensors, firmware, and software. My current focus is embedded firmware, robotics, and running machine learning models on edge devices.
 
-<p align="center">
-  🎓 <b>Electronics & Communication Engineering Student</b> <br>
-  🤖 <b>Aspiring Embedded Systems Engineer | Robotics Enthusiast</b>
-</p>
+## Featured project
 
-<p align="center">
-  💡 Passionate about <b>Embedded Systems, Robotics, and Hardware Design</b>.  
-  Currently building projects with <b>ROS, PCB Design, and Microcontrollers</b> to grow into a professional Embedded Systems Engineer.
-</p>
+### SmartTrack R6 · Wearable activity recognition
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white"/>
-</p>
+[<img src="https://raw.githubusercontent.com/Muhammad-296/Smart-Bracelet-Public/main/docs/media/smarttrack-prototype.jpeg" alt="Assembled SmartTrack R6 prototype beside its live dashboard" width="420">](https://github.com/Muhammad-296/Smart-Bracelet-Public#physical-prototype)
 
+SmartTrack R6 combines a custom KiCad sensor carrier, a 3D-printed enclosure, and a Raspberry Pi 3B+. The Pi classifies motion locally and streams telemetry to a Firebase dashboard. A random forest classifier achieved **90.23% balanced accuracy** on held-out windows from two participants in a public dataset. Accuracy on recordings from the bracelet has yet to be measured.
 
----
+[Project overview](https://github.com/Muhammad-296/Smart-Bracelet-Public) · [Model evaluation](https://github.com/Muhammad-296/Smart-Bracelet-Public/tree/main/Software/STEM_Final_Project#how-it-was-evaluated)
 
-## 🌐 Let's Connect!  
+## Selected embedded systems and robotics projects
 
-<div align="center">
+| Project | What it demonstrates |
+| --- | --- |
+| [ROV Control Station](https://github.com/Muhammad-296/ROV-Control-Station) | PySide6 mission control for a ROS 2 rover and an Arduino Mega underwater ROV, with telemetry, camera feeds, and operator controls. |
+| [Gesture-Controlled Car](https://github.com/Muhammad-296/Gesture-controlled-Car) | Arduino C++ firmware for an IMU glove and robotic car using nRF24L01 radio, servo control, and ultrasonic obstacle detection. |
+| [Mars Rover](https://github.com/Muhammad-296/Mars-Rover) | A six-wheel ESP32 rover with a custom PCB, WebSocket telemetry, and a Python desktop control interface. |
+| [Digital Clock](https://github.com/Muhammad-296/Digital-Clock) | AVR assembly for an ATmega32A clock and calendar with a matrix keypad and LCD. |
 
-[![LinkedIn](https://readmecodegen.vercel.app/api/social-icon?name=linkedin&animation=pulse&size=40&color=0077B5)](https://www.linkedin.com/in/muhammad-abdulhamid/)
-[![Instagram](https://readmecodegen.vercel.app/api/social-icon?name=instagram&animation=glow&size=40&color=E4405F)](https://instagram.com/muhammad.ahmed.abdullhamid.29)
-[![WhatsApp](https://readmecodegen.vercel.app/api/social-icon?name=whatsapp&animation=shake&size=40&color=25D366)](https://wa.me/201274783955)
-[![Gmail](https://readmecodegen.vercel.app/api/social-icon?name=gmail&animation=bounce&size=40&color=D14836)](mailto:muhammad.al.ajami.se@gmail.com)
-[![Spotify](https://readmecodegen.vercel.app/api/social-icon?name=spotify&animation=glow&size=40&color=1DB954)](https://open.spotify.com/user/31rnvw4fq3juyp6p3uytu7y2ffbe)
+## Tools and platforms
 
-</div>
+- **Firmware and electronics** · C/C++, AVR assembly, ESP32, Arduino, ATmega32A, KiCad, I²C, UART, and SPI
+- **Robotics and edge computing** · Python, Raspberry Pi, ROS 2, and PySide6
+- **Applied machine learning** · Motion-sensor classification, random forests, held-out evaluation, and on-device inference
 
----
+## Contact
 
-## 🌱 Learning Roadmap  
-
-<div align="center">
-
-| Status | Category                    | Tools / Skills                                  |
-|:------:|:---------------------------:|:-----------------------------------------------:|
-| ✅     | Programming & Scripting     | 🖥️ C/C++, Python, Embedded C                   |
-| ✅     | Version Control             | 🔧 Git, GitHub                                  |
-| ✅     | Microcontrollers & SBCs     | 🔬 STM32, Arduino, Raspberry Pi, ESP32          |
-| ✅     | Robotics & ROS              | 🤖 ROS 2, Gazebo, URDF, MoveIt                 |
-| ✅     | PCB Design                  | 🛠️ KiCad, Altium Designer, Eagle               |
-| ✅     | Communication Protocols     | 📡 UART, SPI, I2C, CAN, MQTT                   |
-| ✅     | RTOS & Firmware             | ⚙️ FreeRTOS, Bare-Metal, HAL Drivers           |
-| ✅     | Sensors & Actuation         | 📊 IMUs, LiDAR, Servo, Motor Control, PWM      |
-
-</div>
-
----
-
-## 🛠️ Tech Skills  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,git,arduino,raspberrypi,ros,matlab,cmake,vscode,github&theme=light&perline=8" />
-</p>
-
----
-
-## 🎉 Fun Facts About Me  
-
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00C896&center=true&vCenter=true&width=650&lines=🤖+I+talk+to+robots+more+than+people.;🔌+My+spirit+animal+is+a+soldering+iron.;📡+I+debug+hardware+with+an+oscilloscope+and+patience.;☕+Coffee+%2B+Embedded+C+%3D+Firmware+that+actually+works.;⚡+I+design+PCBs+in+my+dreams+and+fix+shorts+in+real+life." alt="Fun Facts Typing SVG" />
-
-</p>
+[LinkedIn](https://www.linkedin.com/in/muhammad-abdulhamid/) · [Email](mailto:muhammad.al.ajami.se@gmail.com)
